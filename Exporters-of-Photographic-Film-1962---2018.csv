@@ -1,0 +1,172 @@
+"Continent ID","Continent","Country ID","Country","Year","Trade Value","Trade Value Growth","Trade Value Growth Value","Trade Value Previous","Trade Value Current"
+"af","Africa","afago","Angola",2018,40228,9.057,36228,4000,40228
+"af","Africa","afbdi","Burundi",2018,81,0,81,0,81
+"af","Africa","afbfa","Burkina Faso",2018,687,-0.313,-313,1000,687
+"af","Africa","afciv","Cote d'Ivoire",2018,393489,392.489,392489,1000,393489
+"af","Africa","afegy","Egypt",2018,87732,1.5803529411764705,53732,34000,87732
+"af","Africa","afgha","Ghana",2018,1175121,89.39392307692307,1162121,13000,1175121
+"af","Africa","afken","Kenya",2018,106693,1.8077105263157895,68693,38000,106693
+"af","Africa","afmar","Morocco",2018,208409,15.031461538461539,195409,13000,208409
+"af","Africa","afmdg","Madagascar",2018,4632,3.632,3632,1000,4632
+"af","Africa","afmus","Mauritius",2018,19235,0,19235,0,19235
+"af","Africa","aftza","Tanzania",2018,275288,67.822,271288,4000,275288
+"af","Africa","afuga","Uganda",2018,13022,2.2555,9022,4000,13022
+"af","Africa","afzaf","South Africa",2018,3892843,107.13452777777778,3856843,36000,3892843
+"as","Asia","asbhr","Bahrain",2018,22955,2.2792857142857144,15955,7000,22955
+"as","Asia","aschn","China",2018,819540156,136589.026,819534156,6000,819540156
+"as","Asia","ascyp","Cyprus",2018,268548,52.7096,263548,5000,268548
+"as","Asia","ashkg","Hong Kong",2018,41846047,285.6167602739726,41700047,146000,41846047
+"as","Asia","asidn","Indonesia",2018,269660,52.932,264660,5000,269660
+"as","Asia","asind","India",2018,4246598,19.71511219512195,4041598,205000,4246598
+"as","Asia","asisr","Israel",2018,4092000,214.3684210526316,4073000,19000,4092000
+"as","Asia","asjor","Jordan",2018,23166,0.5444,8166,15000,23166
+"as","Asia","asjpn","Japan",2018,1793730740,433.6330845650594,1789603740,4127000,1793730740
+"as","Asia","askor","South Korea",2018,339131130,9419.309166666666,339095130,36000,339131130
+"as","Asia","askwt","Kuwait",2018,24706,3.9412,19706,5000,24706
+"as","Asia","aslbn","Lebanon",2018,151011,7.3895,133011,18000,151011
+"as","Asia","asmmr","Burma",2018,645898,39.368625,629898,16000,645898
+"as","Asia","asmys","Malaysia",2018,158818248,3528.2944,158773248,45000,158818248
+"as","Asia","asomn","Oman",2018,759135,0,759135,0,759135
+"as","Asia","aspak","Pakistan",2018,38368,-0.0408,-1632,40000,38368
+"as","Asia","asphl","Philippines",2018,675059,23.10925,647059,28000,675059
+"as","Asia","asqat","Qatar",2018,11759,0,11759,0,11759
+"as","Asia","assau","Saudi Arabia",2018,577809,576.809,576809,1000,577809
+"as","Asia","assgp","Singapore",2018,78953566,348.35206194690267,78727566,226000,78953566
+"as","Asia","astha","Thailand",2018,6374031,909.5758571428571,6367031,7000,6374031
+"as","Asia","astur","Turkey",2018,8096937,1011.117125,8088937,8000,8096937
+"eu","Europe","euaut","Austria",2018,7864714,13.119773788150807,7307714,557000,7864714
+"eu","Europe","eubel","Belgium",2018,889308397,9.468856206149644,804360397,84948000,889308397
+"eu","Europe","eubgr","Bulgaria",2018,3041034,35.20278571428572,2957034,84000,3041034
+"eu","Europe","euche","Switzerland",2018,9638257,3.952855601233299,7692257,1946000,9638257
+"eu","Europe","eudeu","Germany",2018,1130974796,22.974028532061475,1083799796,47175000,1130974796
+"eu","Europe","eudnk","Denmark",2018,1809679,8.888956284153005,1626679,183000,1809679
+"eu","Europe","euesp","Spain",2018,55307825,176.8386655948553,54996825,311000,55307825
+"eu","Europe","eufin","Finland",2018,676597,14.377204545454546,632597,44000,676597
+"eu","Europe","eufra","France",2018,129316084,4.7571046211379215,106854084,22462000,129316084
+"eu","Europe","eugbr","United Kingdom",2018,119645215,2.00080798073788,79774215,39871000,119645215
+"eu","Europe","eugrc","Greece",2018,2588484,23.88926923076923,2484484,104000,2588484
+"eu","Europe","euhun","Hungary",2018,8055935,9.05734706616729,7254935,801000,8055935
+"eu","Europe","euirl","Ireland",2018,45870872,462.3421414141414,45771872,99000,45870872
+"eu","Europe","euisl","Iceland",2018,265,-0.735,-735,1000,265
+"eu","Europe","euita","Italy",2018,50305549,1.9826603225423929,33439549,16866000,50305549
+"eu","Europe","eumlt","Malta",2018,55991,4.090090909090909,44991,11000,55991
+"eu","Europe","eunld","Netherlands",2018,602747382,108.55059651035987,597245382,5502000,602747382
+"eu","Europe","eunor","Norway",2018,137174,0.15272268907563025,18174,119000,137174
+"eu","Europe","eupol","Poland",2018,25610380,23.275241706161136,24555380,1055000,25610380
+"eu","Europe","euprt","Portugal",2018,3747737,50.33886301369863,3674737,73000,3747737
+"eu","Europe","eurou","Romania",2018,2180115,0,2180115,0,2180115
+"eu","Europe","euswe","Sweden",2018,8053080,14.252045454545454,7525080,528000,8053080
+"na","North America","nabrb","Barbados",2018,46151,0,46151,0,46151
+"na","North America","nacan","Canada",2018,3690895,0.4152204754601227,1082895,2608000,3690895
+"na","North America","nacri","Costa Rica",2018,282773,0,282773,0,282773
+"na","North America","namex","Mexico",2018,27327664,880.5375483870968,27296664,31000,27327664
+"na","North America","nanic","Nicaragua",2018,24767,0,24767,0,24767
+"na","North America","naslv","El Salvador",2018,87068,42.534,85068,2000,87068
+"na","North America","nausa","United States",2018,1634265493,18.451141920279937,1550246493,84019000,1634265493
+"oc","Oceania","ocaus","Australia",2018,5349975,212.999,5324975,25000,5349975
+"oc","Oceania","ocfji","Fiji",2018,5650,0,5650,0,5650
+"oc","Oceania","ocnzl","New Zealand",2018,918860,182.772,913860,5000,918860
+"sa","South America","saarg","Argentina",2018,194211,7.827772727272727,172211,22000,194211
+"sa","South America","sabol","Bolivia",2018,6653,0,6653,0,6653
+"sa","South America","sabra","Brazil",2018,26503552,2408.413818181818,26492552,11000,26503552
+"sa","South America","sachl","Chile",2018,1994095,497.52375,1990095,4000,1994095
+"sa","South America","sacol","Colombia",2018,410150,0,410150,0,410150
+"sa","South America","saecu","Ecuador",2018,87317,0,87317,0,87317
+"sa","South America","saper","Peru",2018,406734,12.5578,376734,30000,406734
+"sa","South America","sapry","Paraguay",2018,3000,0,3000,0,3000
+"sa","South America","saury","Uruguay",2018,10650,0,10650,0,10650
+"af","Africa","afbwa","Botswana",2018,11516,1,11516,0,11516
+"af","Africa","afnam","Namibia",2018,6817,1,6817,0,6817
+"as","Asia","asare","United Arab Emirates",2018,55938860,1,55938860,0,55938860
+"as","Asia","asarm","Armenia",2018,10402,1,10402,0,10402
+"as","Asia","asaze","Azerbaijan",2018,6450,1,6450,0,6450
+"as","Asia","asbrn","Brunei",2018,848,1,848,0,848
+"as","Asia","asgeo","Georgia",2018,14408,1,14408,0,14408
+"as","Asia","askaz","Kazakhstan",2018,420321,1,420321,0,420321
+"as","Asia","aspse","Palestine",2018,556,1,556,0,556
+"eu","Europe","euand","Andorra",2018,4316,1,4316,0,4316
+"eu","Europe","eubih","Bosnia and Herzegovina",2018,70384,1,70384,0,70384
+"eu","Europe","eublr","Belarus",2018,568400,1,568400,0,568400
+"eu","Europe","eucze","Czechia",2018,13459432,1,13459432,0,13459432
+"eu","Europe","euest","Estonia",2018,114862,1,114862,0,114862
+"eu","Europe","euhrv","Croatia",2018,2606028,1,2606028,0,2606028
+"eu","Europe","eultu","Lithuania",2018,16622866,1,16622866,0,16622866
+"eu","Europe","eulux","Luxembourg",2018,4811440,1,4811440,0,4811440
+"eu","Europe","eulva","Latvia",2018,4700773,1,4700773,0,4700773
+"eu","Europe","eumda","Moldova",2018,7300,1,7300,0,7300
+"eu","Europe","eumkd","North Macedonia",2018,9038,1,9038,0,9038
+"eu","Europe","eurus","Russia",2018,6338674,1,6338674,0,6338674
+"eu","Europe","eusrb","Serbia",2018,1150874,1,1150874,0,1150874
+"eu","Europe","eusvk","Slovakia",2018,4397798,1,4397798,0,4397798
+"eu","Europe","eusvn","Slovenia",2018,4983228,1,4983228,0,4983228
+"eu","Europe","euukr","Ukraine",2018,206106,1,206106,0,206106
+"xx",,"xxwld","Rest of the world",2018,334974258,1,334974258,0,334974258
+"af","Africa","afben","Benin",1962,0,-1,0,0,0
+"af","Africa","afcaf","Central African Republic",1962,0,-1,0,0,0
+"af","Africa","afcmr","Cameroon",1962,1000,-1,-1000,1000,0
+"af","Africa","afcod","Democratic Republic of the Congo",1962,5000,-1,-5000,5000,0
+"af","Africa","afcog","Republic of the Congo",1962,2000,-1,-2000,2000,0
+"af","Africa","afdji","Djibouti",1962,0,-1,0,0,0
+"af","Africa","afdza","Algeria",1962,5000,-1,-5000,5000,0
+"af","Africa","afeth","Ethiopia",1962,0,-1,0,0,0
+"af","Africa","afgab","Gabon",1962,0,-1,0,0,0
+"af","Africa","afgin","Guinea",1962,0,-1,0,0,0
+"af","Africa","afgmb","Gambia",1962,0,-1,0,0,0
+"af","Africa","afgnb","Guinea-Bissau",1962,0,-1,0,0,0
+"af","Africa","afgnq","Equatorial Guinea",1962,0,-1,0,0,0
+"af","Africa","aflbr","Liberia",1962,12000,-1,-12000,12000,0
+"af","Africa","aflby","Libya",1962,4000,-1,-4000,4000,0
+"af","Africa","afmli","Mali",1962,0,-1,0,0,0
+"af","Africa","afmoz","Mozambique",1962,0,-1,0,0,0
+"af","Africa","afmrt","Mauritania",1962,0,-1,0,0,0
+"af","Africa","afner","Niger",1962,0,-1,0,0,0
+"af","Africa","afnga","Nigeria",1962,24000,-1,-24000,24000,0
+"af","Africa","afsdn","Sudan",1962,1000,-1,-1000,1000,0
+"af","Africa","afsen","Senegal",1962,5000,-1,-5000,5000,0
+"af","Africa","afsle","Sierra Leone",1962,1000,-1,-1000,1000,0
+"af","Africa","afsom","Somalia",1962,0,-1,0,0,0
+"af","Africa","aftcd","Chad",1962,0,-1,0,0,0
+"af","Africa","aftgo","Togo",1962,0,-1,0,0,0
+"af","Africa","aftun","Tunisia",1962,27000,-1,-27000,27000,0
+"af","Africa","afzmb","Zambia",1962,29000,-1,-29000,29000,0
+"as","Asia","asafg","Afghanistan",1962,0,-1,0,0,0
+"as","Asia","asfio","Fr Ind O",1962,0,-1,0,0,0
+"as","Asia","asirn","Iran",1962,13000,-1,-13000,13000,0
+"as","Asia","asirq","Iraq",1962,3000,-1,-3000,3000,0
+"as","Asia","askhm","Cambodia",1962,0,-1,0,0,0
+"as","Asia","aslao","Laos",1962,0,-1,0,0,0
+"as","Asia","aslka","Sri Lanka",1962,8000,-1,-8000,8000,0
+"as","Asia","asnpl","Nepal",1962,2000,-1,-2000,2000,0
+"as","Asia","asprk","North Korea",1962,0,-1,0,0,0
+"as","Asia","assyr","Syria",1962,0,-1,0,0,0
+"as","Asia","astwn","Taiwan",1962,25000,-1,-25000,25000,0
+"as","Asia","asvnm","Vietnam",1962,3000,-1,-3000,3000,0
+"as","Asia","asxxb","Chinese Taipei",1962,0,-1,0,0,0
+"as","Asia","asymd","Democratic Yemen",1962,3000,-1,-3000,3000,0
+"eu","Europe","eualb","Albania",1962,0,-1,0,0,0
+"eu","Europe","eucsk","Czechoslovakia",1962,342000,-1,-342000,342000,0
+"eu","Europe","euddr","Democratic Republic of Germany",1962,4721000,-1,-4721000,4721000,0
+"eu","Europe","eufdr","Federal Republic of Germany",1962,42454000,-1,-42454000,42454000,0
+"eu","Europe","eusun","USSR",1962,9000,-1,-9000,9000,0
+"eu","Europe","euyug","Yugoslavia",1962,291000,-1,-291000,291000,0
+"na","North America","nabhs","Bahamas",1962,10000,-1,-10000,10000,0
+"na","North America","nabmu","Bermuda",1962,1000,-1,-1000,1000,0
+"na","North America","nacub","Cuba",1962,1000,-1,-1000,1000,0
+"na","North America","nadom","Dominican Republic",1962,0,-1,0,0,0
+"na","North America","nagtm","Guatemala",1962,0,-1,0,0,0
+"na","North America","nahnd","Honduras",1962,0,-1,0,0,0
+"na","North America","nahti","Haiti",1962,0,-1,0,0,0
+"na","North America","najam","Jamaica",1962,14000,-1,-14000,14000,0
+"na","North America","nanaa","Netherland Antilles and Aruba",1962,1000,-1,-1000,1000,0
+"na","North America","napan","Panama",1962,126000,-1,-126000,126000,0
+"na","North America","naspm","Saint Pierre and Miquelon",1962,3000,-1,-3000,3000,0
+"na","North America","natto","Trinidad and Tobago",1962,2000,-1,-2000,2000,0
+"na","North America","naxxe","United States Unspecified",1962,0,-1,0,0,0
+"oc","Oceania","ocglp","Guadeloupe",1962,1000,-1,-1000,1000,0
+"oc","Oceania","ockir","Kiribati",1962,2000,-1,-2000,2000,0
+"oc","Oceania","ocncl","New Caledonia",1962,8000,-1,-8000,8000,0
+"oc","Oceania","ocpng","Papua New Guinea",1962,0,-1,0,0,0
+"sa","South America","saguy","Guyana",1962,1000,-1,-1000,1000,0
+"sa","South America","sasur","Suriname",1962,4000,-1,-4000,4000,0
+"sa","South America","saven","Venezuela",1962,9000,-1,-9000,9000,0
+"xx",,"xxxxh","Areas",1962,31000,-1,-31000,31000,0
