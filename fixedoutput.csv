@@ -1,0 +1,3243 @@
+,Continent,Country,Trade Value,Year
+0,Africa,Angola,0,2000
+1,Africa,Burundi,0,2000
+2,Africa,Benin,757,2000
+3,Africa,Burkina Faso,1142,2000
+4,Africa,Botswana,437,2000
+5,Africa,Central African Republic,867,2000
+6,Africa,Cote d'Ivoire,1603,2000
+7,Africa,Cameroon,0,2000
+8,Africa,Democratic Republic of the Congo,0,2000
+9,Africa,Republic of the Congo,0,2000
+10,Africa,Comoros,0,2000
+11,Africa,Cape Verde,95,2000
+12,Africa,Djibouti,0,2000
+13,Africa,Algeria,3616,2000
+14,Africa,Egypt,203648,2000
+15,Africa,Eritrea,0,2000
+16,Africa,Ethiopia,4358,2000
+17,Africa,Gabon,3407,2000
+18,Africa,Ghana,988,2000
+19,Africa,Guinea,13199,2000
+20,Africa,Gambia,0,2000
+21,Africa,Guinea-Bissau,0,2000
+22,Africa,Equatorial Guinea,0,2000
+23,Africa,Kenya,60689,2000
+24,Africa,Liberia,0,2000
+25,Africa,Libya,0,2000
+26,Africa,Lesotho,2497,2000
+27,Africa,Morocco,515617,2000
+28,Africa,Madagascar,897,2000
+29,Africa,Mali,369030,2000
+30,Africa,Mozambique,4941,2000
+31,Africa,Mauritania,0,2000
+32,Africa,Mauritius,34498,2000
+33,Africa,Malawi,0,2000
+34,Africa,Mayotte,17712,2000
+35,Africa,Namibia,377902,2000
+36,Africa,Niger,146575,2000
+37,Africa,Nigeria,7253,2000
+38,Africa,Rwanda,0,2000
+39,Africa,Sudan,7329,2000
+40,Africa,Senegal,3185,2000
+41,Africa,Saint Helena,0,2000
+42,Africa,Sierra Leone,52549,2000
+43,Africa,Sao Tome and Principe,0,2000
+44,Africa,Eswatini,33350,2000
+45,Africa,Seychelles,1732,2000
+46,Africa,Chad,0,2000
+47,Africa,Togo,0,2000
+48,Africa,Tunisia,48502,2000
+49,Africa,Tanzania,31859,2000
+50,Africa,Uganda,974,2000
+51,Africa,South Africa,7080312,2000
+52,Africa,Zambia,1455,2000
+53,Africa,Zimbabwe,18806,2000
+54,Asia,Afghanistan,38520,2000
+55,Asia,United Arab Emirates,18586019,2000
+56,Asia,Armenia,0,2000
+57,Asia,Azerbaijan,889,2000
+58,Asia,Bangladesh,0,2000
+59,Asia,Bahrain,71775,2000
+60,Asia,Brunei,243,2000
+61,Asia,Bhutan,46708,2000
+62,Asia,Cocos (Keeling) Islands,0,2000
+63,Asia,China,244056619,2000
+64,Asia,Christmas Island,0,2000
+65,Asia,Cyprus,614027,2000
+66,Asia,Georgia,11324,2000
+67,Asia,Hong Kong,40446393,2000
+68,Asia,Indonesia,4669941,2000
+69,Asia,India,16565511,2000
+70,Asia,Iran,40432,2000
+71,Asia,Iraq,2741,2000
+72,Asia,Israel,2402510,2000
+73,Asia,Jordan,147255,2000
+74,Asia,Japan,2311401856,2000
+75,Asia,Kazakhstan,653,2000
+76,Asia,Kyrgyzstan,7372,2000
+77,Asia,Cambodia,0,2000
+78,Asia,South Korea,54896658,2000
+79,Asia,Kuwait,106194,2000
+80,Asia,Laos,0,2000
+81,Asia,Lebanon,91145,2000
+82,Asia,Sri Lanka,32924,2000
+83,Asia,Macau,1603763,2000
+84,Asia,Maldives,0,2000
+85,Asia,Burma,1232,2000
+86,Asia,Mongolia,2727,2000
+87,Asia,Malaysia,36602891,2000
+88,Asia,Nepal,1279941,2000
+89,Asia,Oman,5069,2000
+90,Asia,Pakistan,36318,2000
+91,Asia,Philippines,630736,2000
+92,Asia,North Korea,45297,2000
+93,Asia,Palestine,0,2000
+94,Asia,Qatar,149185,2000
+95,Asia,Saudi Arabia,1041254,2000
+96,Asia,Singapore,63302120,2000
+97,Asia,Syria,45956,2000
+98,Asia,Thailand,4986550,2000
+99,Asia,Tajikistan,0,2000
+100,Asia,Turkmenistan,0,2000
+101,Asia,Timor-Leste,0,2000
+102,Asia,Turkey,3200105,2000
+103,Asia,Uzbekistan,4901,2000
+104,Asia,Vietnam,3149789,2000
+105,Asia,Yemen,898,2000
+106,Europe,Albania,1802,2000
+107,Europe,Andorra,5896,2000
+108,Europe,Austria,20819722,2000
+109,Europe,Belgium,996326866,2000
+110,Europe,Bulgaria,10104975,2000
+111,Europe,Bosnia and Herzegovina,46317,2000
+112,Europe,Belarus,101272,2000
+113,Europe,Switzerland,79939221,2000
+114,Europe,Czechia,6268561,2000
+115,Europe,Germany,1165538895,2000
+116,Europe,Denmark,11609024,2000
+117,Europe,Spain,96174259,2000
+118,Europe,Estonia,4625748,2000
+119,Europe,Finland,7883140,2000
+120,Europe,France,825836599,2000
+121,Europe,Faroe Islands,985,2000
+122,Europe,United Kingdom,1376699296,2000
+123,Europe,Gibraltar,0,2000
+124,Europe,Greece,5472131,2000
+125,Europe,Croatia,538084,2000
+126,Europe,Hungary,6526595,2000
+127,Europe,Ireland,2676147,2000
+128,Europe,Iceland,214274,2000
+129,Europe,Italy,228318228,2000
+130,Europe,Lithuania,1019675,2000
+131,Europe,Luxembourg,5244026,2000
+132,Europe,Latvia,237298,2000
+133,Europe,Moldova,0,2000
+134,Europe,North Macedonia,85291,2000
+135,Europe,Malta,229873,2000
+136,Europe,Netherlands,872542765,2000
+137,Europe,Norway,4482339,2000
+138,Europe,Poland,1039537,2000
+139,Europe,Portugal,1414986,2000
+140,Europe,Romania,582244,2000
+141,Europe,Russia,5618963,2000
+142,Europe,Serbia and Montenegro,44543,2000
+143,Europe,San Marino,0,2000
+144,Europe,Slovakia,712659,2000
+145,Europe,Slovenia,3684090,2000
+146,Europe,Sweden,44776717,2000
+147,Europe,Ukraine,973543,2000
+148,North America,Aruba,0,2000
+149,North America,Anguilla,0,2000
+150,North America,Netherlands Antilles,501854,2000
+151,North America,Antigua and Barbuda,0,2000
+152,North America,Bahamas,260516,2000
+153,North America,Belize,26926,2000
+154,North America,Bermuda,0,2000
+155,North America,Barbados,16147,2000
+156,North America,Canada,188938047,2000
+157,North America,Costa Rica,42174,2000
+158,North America,Cuba,53920,2000
+159,North America,Cayman Islands,14733,2000
+160,North America,Dominica,24533,2000
+161,North America,Dominican Republic,33783,2000
+162,North America,Grenada,0,2000
+163,North America,Greenland,11899,2000
+164,North America,Guatemala,313681,2000
+165,North America,Honduras,10661,2000
+166,North America,Haiti,33,2000
+167,North America,Jamaica,757,2000
+168,North America,Saint Kitts and Nevis,0,2000
+169,North America,Saint Lucia,0,2000
+170,North America,Mexico,367252579,2000
+171,North America,Nicaragua,21015,2000
+172,North America,Panama,152863,2000
+173,North America,El Salvador,14520,2000
+174,North America,Saint Pierre and Miquelon,0,2000
+175,North America,Turks and Caicos Islands,0,2000
+176,North America,Trinidad and Tobago,277535,2000
+177,North America,United States Minor Outlying Islands,0,2000
+178,North America,United States,2795653762,2000
+179,North America,Saint Vincent and the Grenadines,46,2000
+180,North America,British Virgin Islands,0,2000
+181,Oceania,American Samoa,0,2000
+182,Oceania,Australia,144350597,2000
+183,Oceania,Cook Islands,0,2000
+184,Oceania,Fiji,38562,2000
+185,Oceania,Micronesia,0,2000
+186,Oceania,Guam,108,2000
+187,Oceania,Kiribati,0,2000
+188,Oceania,New Caledonia,25843,2000
+189,Oceania,Norfolk Island,26334,2000
+190,Oceania,Niue,0,2000
+191,Oceania,New Zealand,1144525,2000
+192,Oceania,Papua New Guinea,1793,2000
+193,Oceania,French Polynesia,15443,2000
+194,Oceania,Solomon Islands,0,2000
+195,Oceania,Tokelau,67026,2000
+196,Oceania,Tonga,0,2000
+197,Oceania,Tuvalu,0,2000
+198,Oceania,Vanuatu,0,2000
+199,Oceania,Wallis and Futuna,0,2000
+200,Oceania,Samoa,607,2000
+201,South America,Argentina,53678402,2000
+202,South America,Bolivia,6002,2000
+203,South America,Brazil,160470745,2000
+204,South America,Chile,2758868,2000
+205,South America,Colombia,1767507,2000
+206,South America,Ecuador,108434,2000
+207,South America,Falkland Islands,0,2000
+208,South America,Guyana,0,2000
+209,South America,Peru,59767,2000
+210,South America,Paraguay,7397,2000
+211,South America,Suriname,0,2000
+212,South America,Uruguay,1846167,2000
+213,South America,Venezuela,415999,2000
+0,Africa,Angola,235,2001
+1,Africa,Burundi,0,2001
+2,Africa,Benin,0,2001
+3,Africa,Burkina Faso,0,2001
+4,Africa,Botswana,29210,2001
+5,Africa,Central African Republic,0,2001
+6,Africa,Cote d'Ivoire,7852,2001
+7,Africa,Cameroon,19230,2001
+8,Africa,Democratic Republic of the Congo,0,2001
+9,Africa,Republic of the Congo,632,2001
+10,Africa,Comoros,0,2001
+11,Africa,Cape Verde,2418,2001
+12,Africa,Djibouti,0,2001
+13,Africa,Algeria,3838,2001
+14,Africa,Egypt,569622,2001
+15,Africa,Eritrea,0,2001
+16,Africa,Western Sahara,0,2001
+17,Africa,Ethiopia,921,2001
+18,Africa,Gabon,44,2001
+19,Africa,Ghana,0,2001
+20,Africa,Guinea,84,2001
+21,Africa,Gambia,0,2001
+22,Africa,Guinea-Bissau,0,2001
+23,Africa,Equatorial Guinea,899,2001
+24,Africa,Kenya,115008,2001
+25,Africa,Liberia,0,2001
+26,Africa,Libya,1463,2001
+27,Africa,Morocco,493828,2001
+28,Africa,Madagascar,1608,2001
+29,Africa,Mali,0,2001
+30,Africa,Mozambique,276,2001
+31,Africa,Mauritania,807,2001
+32,Africa,Mauritius,4754,2001
+33,Africa,Malawi,0,2001
+34,Africa,Mayotte,0,2001
+35,Africa,Namibia,4309,2001
+36,Africa,Niger,27068,2001
+37,Africa,Nigeria,11362,2001
+38,Africa,Rwanda,0,2001
+39,Africa,Sudan,0,2001
+40,Africa,Senegal,2700,2001
+41,Africa,Saint Helena,0,2001
+42,Africa,Sierra Leone,13253,2001
+43,Africa,Sao Tome and Principe,0,2001
+44,Africa,Eswatini,27737,2001
+45,Africa,Seychelles,512,2001
+46,Africa,Chad,0,2001
+47,Africa,Togo,635,2001
+48,Africa,Tunisia,41775,2001
+49,Africa,Tanzania,9007,2001
+50,Africa,Uganda,31,2001
+51,Africa,South Africa,7057384,2001
+52,Africa,Zambia,812,2001
+53,Africa,Zimbabwe,3655,2001
+54,Asia,Afghanistan,4997,2001
+55,Asia,United Arab Emirates,15846229,2001
+56,Asia,Armenia,44220,2001
+57,Asia,Azerbaijan,0,2001
+58,Asia,Bangladesh,6645,2001
+59,Asia,Bahrain,154087,2001
+60,Asia,Brunei,8705,2001
+61,Asia,Cocos (Keeling) Islands,24079,2001
+62,Asia,China,222134590,2001
+63,Asia,Christmas Island,0,2001
+64,Asia,Cyprus,98279,2001
+65,Asia,Georgia,528,2001
+66,Asia,Hong Kong,32144335,2001
+67,Asia,Indonesia,3606841,2001
+68,Asia,India,8237583,2001
+69,Asia,Iran,53233,2001
+70,Asia,Iraq,0,2001
+71,Asia,Israel,3348209,2001
+72,Asia,Jordan,16876,2001
+73,Asia,Japan,2191159223,2001
+74,Asia,Kazakhstan,0,2001
+75,Asia,Kyrgyzstan,16213,2001
+76,Asia,Cambodia,3009,2001
+77,Asia,South Korea,67605827,2001
+78,Asia,Kuwait,33343,2001
+79,Asia,Laos,0,2001
+80,Asia,Lebanon,13453,2001
+81,Asia,Sri Lanka,14446,2001
+82,Asia,Macau,981941,2001
+83,Asia,Maldives,0,2001
+84,Asia,Burma,6900,2001
+85,Asia,Mongolia,2215,2001
+86,Asia,Malaysia,30327157,2001
+87,Asia,Nepal,1072,2001
+88,Asia,Oman,4783,2001
+89,Asia,Pakistan,443107,2001
+90,Asia,Philippines,2430430,2001
+91,Asia,North Korea,79045,2001
+92,Asia,Palestine,0,2001
+93,Asia,Qatar,13892,2001
+94,Asia,Saudi Arabia,530703,2001
+95,Asia,Singapore,54959369,2001
+96,Asia,Syria,12747,2001
+97,Asia,Thailand,1877239,2001
+98,Asia,Tajikistan,0,2001
+99,Asia,Turkmenistan,0,2001
+100,Asia,Timor-Leste,263,2001
+101,Asia,Turkey,3824640,2001
+102,Asia,Uzbekistan,6333,2001
+103,Asia,Vietnam,5127381,2001
+104,Asia,Yemen,44951,2001
+105,Europe,Albania,3233,2001
+106,Europe,Andorra,24612,2001
+107,Europe,Austria,24496207,2001
+108,Europe,Belgium,1007276483,2001
+109,Europe,Bulgaria,12035364,2001
+110,Europe,Bosnia and Herzegovina,300312,2001
+111,Europe,Belarus,480466,2001
+112,Europe,Switzerland,76908628,2001
+113,Europe,Czechia,5795388,2001
+114,Europe,Germany,1116703727,2001
+115,Europe,Denmark,13306176,2001
+116,Europe,Spain,97883987,2001
+117,Europe,Estonia,130937,2001
+118,Europe,Finland,7010073,2001
+119,Europe,France,701117906,2001
+120,Europe,Faroe Islands,483570,2001
+121,Europe,United Kingdom,1015228769,2001
+122,Europe,Gibraltar,9727,2001
+123,Europe,Greece,4269295,2001
+124,Europe,Croatia,927893,2001
+125,Europe,Hungary,5521708,2001
+126,Europe,Ireland,3533125,2001
+127,Europe,Iceland,437917,2001
+128,Europe,Italy,187624785,2001
+129,Europe,Lithuania,870338,2001
+130,Europe,Luxembourg,7675105,2001
+131,Europe,Latvia,72511,2001
+132,Europe,Moldova,0,2001
+133,Europe,North Macedonia,184951,2001
+134,Europe,Malta,133187,2001
+135,Europe,Netherlands,721137785,2001
+136,Europe,Norway,4742609,2001
+137,Europe,Poland,1356436,2001
+138,Europe,Portugal,2366084,2001
+139,Europe,Romania,812864,2001
+140,Europe,Russia,4439556,2001
+141,Europe,Serbia and Montenegro,106890,2001
+142,Europe,San Marino,0,2001
+143,Europe,Slovakia,718414,2001
+144,Europe,Slovenia,3521278,2001
+145,Europe,Sweden,48497654,2001
+146,Europe,Ukraine,964403,2001
+147,North America,Aruba,8049,2001
+148,North America,Anguilla,987,2001
+149,North America,Netherlands Antilles,60775,2001
+150,North America,Antigua and Barbuda,0,2001
+151,North America,Bahamas,1796,2001
+152,North America,Belize,3003,2001
+153,North America,Bermuda,6603,2001
+154,North America,Barbados,36064,2001
+155,North America,Canada,185554090,2001
+156,North America,Costa Rica,50825,2001
+157,North America,Cuba,44209,2001
+158,North America,Cayman Islands,74,2001
+159,North America,Dominica,0,2001
+160,North America,Dominican Republic,9687,2001
+161,North America,Grenada,3976,2001
+162,North America,Greenland,5619,2001
+163,North America,Guatemala,375772,2001
+164,North America,Honduras,67018,2001
+165,North America,Haiti,0,2001
+166,North America,Jamaica,16616,2001
+167,North America,Saint Kitts and Nevis,0,2001
+168,North America,Saint Lucia,0,2001
+169,North America,Mexico,296894280,2001
+170,North America,Nicaragua,4488,2001
+171,North America,Panama,513983,2001
+172,North America,El Salvador,198145,2001
+173,North America,Saint Pierre and Miquelon,0,2001
+174,North America,Turks and Caicos Islands,0,2001
+175,North America,Trinidad and Tobago,20889,2001
+176,North America,United States Minor Outlying Islands,1642,2001
+177,North America,United States,2114408011,2001
+178,North America,Saint Vincent and the Grenadines,17,2001
+179,North America,British Virgin Islands,49516,2001
+180,Oceania,American Samoa,0,2001
+181,Oceania,Australia,118072241,2001
+182,Oceania,Cook Islands,0,2001
+183,Oceania,Fiji,19756,2001
+184,Oceania,Micronesia,0,2001
+185,Oceania,Guam,663,2001
+186,Oceania,Kiribati,91,2001
+187,Oceania,Marshall Islands,0,2001
+188,Oceania,Northern Mariana Islands,0,2001
+189,Oceania,New Caledonia,270,2001
+190,Oceania,Norfolk Island,0,2001
+191,Oceania,Niue,0,2001
+192,Oceania,Nauru,499,2001
+193,Oceania,New Zealand,1339704,2001
+194,Oceania,Pitcairn Islands,0,2001
+195,Oceania,Palau,5007,2001
+196,Oceania,Papua New Guinea,184,2001
+197,Oceania,French Polynesia,1076,2001
+198,Oceania,Solomon Islands,896,2001
+199,Oceania,Tokelau,0,2001
+200,Oceania,Tonga,0,2001
+201,Oceania,Tuvalu,0,2001
+202,Oceania,Vanuatu,0,2001
+203,Oceania,Wallis and Futuna,0,2001
+204,Oceania,Samoa,0,2001
+205,South America,Argentina,41772464,2001
+206,South America,Bolivia,12146,2001
+207,South America,Brazil,130912454,2001
+208,South America,Chile,1201565,2001
+209,South America,Colombia,691630,2001
+210,South America,Ecuador,37003,2001
+211,South America,Falkland Islands,0,2001
+212,South America,Guyana,0,2001
+213,South America,Peru,142941,2001
+214,South America,Paraguay,562,2001
+215,South America,Suriname,0,2001
+216,South America,Uruguay,2263989,2001
+217,South America,Venezuela,108057,2001
+0,Africa,Angola,226,2002
+1,Africa,Burundi,0,2002
+2,Africa,Benin,29591,2002
+3,Africa,Burkina Faso,1743,2002
+4,Africa,Botswana,7092,2002
+5,Africa,Central African Republic,0,2002
+6,Africa,Cote d'Ivoire,483847,2002
+7,Africa,Cameroon,0,2002
+8,Africa,Democratic Republic of the Congo,1827,2002
+9,Africa,Republic of the Congo,9336,2002
+10,Africa,Comoros,0,2002
+11,Africa,Cape Verde,0,2002
+12,Africa,Djibouti,0,2002
+13,Africa,Algeria,3921,2002
+14,Africa,Egypt,360122,2002
+15,Africa,Eritrea,278,2002
+16,Africa,Ethiopia,0,2002
+17,Africa,Gabon,13265,2002
+18,Africa,Ghana,848,2002
+19,Africa,Guinea,989,2002
+20,Africa,Gambia,0,2002
+21,Africa,Guinea-Bissau,0,2002
+22,Africa,Equatorial Guinea,0,2002
+23,Africa,Kenya,458095,2002
+24,Africa,Liberia,436,2002
+25,Africa,Libya,159,2002
+26,Africa,Lesotho,0,2002
+27,Africa,Morocco,426760,2002
+28,Africa,Madagascar,848,2002
+29,Africa,Mali,1661,2002
+30,Africa,Mozambique,7013,2002
+31,Africa,Mauritania,0,2002
+32,Africa,Mauritius,42251,2002
+33,Africa,Malawi,1386,2002
+34,Africa,Mayotte,0,2002
+35,Africa,Namibia,113930,2002
+36,Africa,Niger,61814,2002
+37,Africa,Nigeria,277757,2002
+38,Africa,Rwanda,0,2002
+39,Africa,Sudan,0,2002
+40,Africa,Senegal,14381,2002
+41,Africa,Saint Helena,0,2002
+42,Africa,Sierra Leone,514,2002
+43,Africa,Somalia,63,2002
+44,Africa,Sao Tome and Principe,4867,2002
+45,Africa,Eswatini,156,2002
+46,Africa,Seychelles,2373,2002
+47,Africa,Chad,0,2002
+48,Africa,Togo,0,2002
+49,Africa,Tunisia,39464,2002
+50,Africa,Tanzania,18839,2002
+51,Africa,Uganda,3256,2002
+52,Africa,South Africa,10113140,2002
+53,Africa,Zambia,257,2002
+54,Africa,Zimbabwe,266,2002
+55,Asia,Afghanistan,0,2002
+56,Asia,United Arab Emirates,15576319,2002
+57,Asia,Armenia,0,2002
+58,Asia,Azerbaijan,409930,2002
+59,Asia,Bangladesh,36136,2002
+60,Asia,Bahrain,3332,2002
+61,Asia,Brunei,2832,2002
+62,Asia,Bhutan,0,2002
+63,Asia,Cocos (Keeling) Islands,0,2002
+64,Asia,China,254190372,2002
+65,Asia,Christmas Island,0,2002
+66,Asia,Cyprus,52485,2002
+67,Asia,Georgia,10799,2002
+68,Asia,Hong Kong,23099954,2002
+69,Asia,Indonesia,4965429,2002
+70,Asia,India,7060330,2002
+71,Asia,British Indian Ocean Territory,0,2002
+72,Asia,Iran,37014,2002
+73,Asia,Iraq,0,2002
+74,Asia,Israel,2976935,2002
+75,Asia,Jordan,167512,2002
+76,Asia,Japan,2266781275,2002
+77,Asia,Kazakhstan,10654,2002
+78,Asia,Kyrgyzstan,7641,2002
+79,Asia,Cambodia,6197,2002
+80,Asia,South Korea,56277572,2002
+81,Asia,Kuwait,12092,2002
+82,Asia,Laos,11,2002
+83,Asia,Lebanon,26458,2002
+84,Asia,Sri Lanka,11313,2002
+85,Asia,Macau,1290523,2002
+86,Asia,Maldives,0,2002
+87,Asia,Burma,45847,2002
+88,Asia,Mongolia,6218,2002
+89,Asia,Malaysia,33287244,2002
+90,Asia,Nepal,18448,2002
+91,Asia,Oman,50323,2002
+92,Asia,Pakistan,868196,2002
+93,Asia,Philippines,849903,2002
+94,Asia,North Korea,479817,2002
+95,Asia,Palestine,0,2002
+96,Asia,Qatar,4468,2002
+97,Asia,Saudi Arabia,531508,2002
+98,Asia,Singapore,64304950,2002
+99,Asia,Syria,75474,2002
+100,Asia,Thailand,1540928,2002
+101,Asia,Tajikistan,0,2002
+102,Asia,Turkmenistan,0,2002
+103,Asia,Timor-Leste,45421,2002
+104,Asia,Turkey,5561982,2002
+105,Asia,Uzbekistan,10835,2002
+106,Asia,Vietnam,3738002,2002
+107,Asia,Yemen,18335,2002
+108,Europe,Albania,154841,2002
+109,Europe,Andorra,8002,2002
+110,Europe,Austria,26134054,2002
+111,Europe,Belgium,1180502178,2002
+112,Europe,Bulgaria,15640907,2002
+113,Europe,Bosnia and Herzegovina,71767,2002
+114,Europe,Belarus,9962,2002
+115,Europe,Switzerland,88324780,2002
+116,Europe,Czechia,8279827,2002
+117,Europe,Germany,1179389401,2002
+118,Europe,Denmark,11084127,2002
+119,Europe,Spain,69246833,2002
+120,Europe,Estonia,35522,2002
+121,Europe,Finland,6244931,2002
+122,Europe,France,774179989,2002
+123,Europe,Faroe Islands,45922,2002
+124,Europe,United Kingdom,876689598,2002
+125,Europe,Gibraltar,1452,2002
+126,Europe,Greece,1655384,2002
+127,Europe,Croatia,984737,2002
+128,Europe,Hungary,6402274,2002
+129,Europe,Ireland,3049500,2002
+130,Europe,Iceland,65861,2002
+131,Europe,Italy,218695942,2002
+132,Europe,Lithuania,1602230,2002
+133,Europe,Luxembourg,6855149,2002
+134,Europe,Latvia,94808,2002
+135,Europe,Moldova,0,2002
+136,Europe,North Macedonia,195621,2002
+137,Europe,Malta,61966,2002
+138,Europe,Netherlands,794742871,2002
+139,Europe,Norway,8173717,2002
+140,Europe,Poland,1377192,2002
+141,Europe,Portugal,1721266,2002
+142,Europe,Romania,763205,2002
+143,Europe,Russia,4274143,2002
+144,Europe,Serbia and Montenegro,313064,2002
+145,Europe,San Marino,1758,2002
+146,Europe,Slovakia,1121852,2002
+147,Europe,Slovenia,3220061,2002
+148,Europe,Sweden,54841617,2002
+149,Europe,Ukraine,674760,2002
+150,Europe,Holy See (Vatican City),3961,2002
+151,North America,Aruba,3865,2002
+152,North America,Anguilla,0,2002
+153,North America,Netherlands Antilles,15930,2002
+154,North America,Antigua and Barbuda,897,2002
+155,North America,Bahamas,0,2002
+156,North America,Belize,5735,2002
+157,North America,Bermuda,2997,2002
+158,North America,Barbados,21852,2002
+159,North America,Canada,149886598,2002
+160,North America,Costa Rica,30011,2002
+161,North America,Cuba,25370,2002
+162,North America,Cayman Islands,652,2002
+163,North America,Dominica,0,2002
+164,North America,Dominican Republic,11206,2002
+165,North America,Grenada,3385,2002
+166,North America,Greenland,572,2002
+167,North America,Guatemala,64861,2002
+168,North America,Honduras,7952,2002
+169,North America,Haiti,11027,2002
+170,North America,Jamaica,2291,2002
+171,North America,Saint Kitts and Nevis,20921,2002
+172,North America,Saint Lucia,898,2002
+173,North America,Mexico,253398713,2002
+174,North America,Nicaragua,4038,2002
+175,North America,Panama,454163,2002
+176,North America,El Salvador,144666,2002
+177,North America,Saint Pierre and Miquelon,0,2002
+178,North America,Turks and Caicos Islands,0,2002
+179,North America,Trinidad and Tobago,18299,2002
+180,North America,United States Minor Outlying Islands,48029,2002
+181,North America,United States,2130185149,2002
+182,North America,Saint Vincent and the Grenadines,0,2002
+183,North America,British Virgin Islands,0,2002
+184,Oceania,American Samoa,0,2002
+185,Oceania,Australia,140606119,2002
+186,Oceania,Cook Islands,0,2002
+187,Oceania,Fiji,31268,2002
+188,Oceania,Micronesia,0,2002
+189,Oceania,Guam,4222,2002
+190,Oceania,Kiribati,0,2002
+191,Oceania,Marshall Islands,0,2002
+192,Oceania,Northern Mariana Islands,0,2002
+193,Oceania,New Caledonia,4261,2002
+194,Oceania,Norfolk Island,0,2002
+195,Oceania,Niue,0,2002
+196,Oceania,Nauru,652676,2002
+197,Oceania,New Zealand,1115183,2002
+198,Oceania,Pitcairn Islands,0,2002
+199,Oceania,Palau,0,2002
+200,Oceania,Papua New Guinea,6330,2002
+201,Oceania,French Polynesia,1259,2002
+202,Oceania,Solomon Islands,3135,2002
+203,Oceania,Tokelau,0,2002
+204,Oceania,Tonga,136,2002
+205,Oceania,Tuvalu,0,2002
+206,Oceania,Vanuatu,0,2002
+207,Oceania,Wallis and Futuna,0,2002
+208,Oceania,Samoa,0,2002
+209,South America,Argentina,47106054,2002
+210,South America,Bolivia,1174,2002
+211,South America,Brazil,90976929,2002
+212,South America,Chile,922613,2002
+213,South America,Colombia,795512,2002
+214,South America,Ecuador,143271,2002
+215,South America,Falkland Islands,3920,2002
+216,South America,Guyana,1713,2002
+217,South America,Peru,49008,2002
+218,South America,Paraguay,29987,2002
+219,South America,Suriname,42189,2002
+220,South America,Uruguay,1353737,2002
+221,South America,Venezuela,67171,2002
+0,Africa,Angola,9176,2003
+1,Africa,Burundi,414,2003
+2,Africa,Benin,0,2003
+3,Africa,Burkina Faso,30,2003
+4,Africa,Botswana,0,2003
+5,Africa,Central African Republic,0,2003
+6,Africa,Cote d'Ivoire,3760,2003
+7,Africa,Cameroon,104,2003
+8,Africa,Democratic Republic of the Congo,9219,2003
+9,Africa,Republic of the Congo,0,2003
+10,Africa,Comoros,0,2003
+11,Africa,Cape Verde,37959,2003
+12,Africa,Djibouti,135544,2003
+13,Africa,Algeria,943,2003
+14,Africa,Egypt,750605,2003
+15,Africa,Eritrea,40780,2003
+16,Africa,Ethiopia,558,2003
+17,Africa,Gabon,623,2003
+18,Africa,Ghana,88966,2003
+19,Africa,Guinea,2182,2003
+20,Africa,Gambia,2206,2003
+21,Africa,Guinea-Bissau,0,2003
+22,Africa,Equatorial Guinea,1025,2003
+23,Africa,Kenya,496295,2003
+24,Africa,Liberia,0,2003
+25,Africa,Libya,0,2003
+26,Africa,Lesotho,0,2003
+27,Africa,Morocco,489887,2003
+28,Africa,Madagascar,88374,2003
+29,Africa,Mali,27789,2003
+30,Africa,Mozambique,21298,2003
+31,Africa,Mauritania,0,2003
+32,Africa,Mauritius,27074,2003
+33,Africa,Malawi,0,2003
+34,Africa,Mayotte,4525,2003
+35,Africa,Namibia,2748,2003
+36,Africa,Niger,154739,2003
+37,Africa,Nigeria,58349,2003
+38,Africa,Rwanda,0,2003
+39,Africa,Sudan,13244,2003
+40,Africa,Senegal,52696,2003
+41,Africa,Saint Helena,3791,2003
+42,Africa,Sierra Leone,3493,2003
+43,Africa,Somalia,0,2003
+44,Africa,Sao Tome and Principe,0,2003
+45,Africa,Eswatini,88937,2003
+46,Africa,Seychelles,2797,2003
+47,Africa,Chad,0,2003
+48,Africa,Togo,0,2003
+49,Africa,Tunisia,122336,2003
+50,Africa,Tanzania,7059,2003
+51,Africa,Uganda,4221,2003
+52,Africa,South Africa,13216235,2003
+53,Africa,Zambia,0,2003
+54,Africa,Zimbabwe,47237,2003
+55,Antarctica,Antarctica,10,2003
+56,Asia,Afghanistan,26782,2003
+57,Asia,United Arab Emirates,19147684,2003
+58,Asia,Armenia,20640,2003
+59,Asia,Azerbaijan,51555,2003
+60,Asia,Bangladesh,131954,2003
+61,Asia,Bahrain,4381,2003
+62,Asia,Brunei,10974,2003
+63,Asia,China,305463912,2003
+64,Asia,Cyprus,126146,2003
+65,Asia,Georgia,1045004,2003
+66,Asia,Hong Kong,27231818,2003
+67,Asia,Indonesia,2876372,2003
+68,Asia,India,6891019,2003
+69,Asia,British Indian Ocean Territory,0,2003
+70,Asia,Iran,9045,2003
+71,Asia,Iraq,0,2003
+72,Asia,Israel,2712960,2003
+73,Asia,Jordan,189767,2003
+74,Asia,Japan,2277336226,2003
+75,Asia,Kazakhstan,244151,2003
+76,Asia,Kyrgyzstan,0,2003
+77,Asia,Cambodia,8359,2003
+78,Asia,South Korea,62356056,2003
+79,Asia,Kuwait,615385,2003
+80,Asia,Laos,581,2003
+81,Asia,Lebanon,63476,2003
+82,Asia,Sri Lanka,57928,2003
+83,Asia,Macau,648414,2003
+84,Asia,Maldives,3993,2003
+85,Asia,Burma,0,2003
+86,Asia,Mongolia,0,2003
+87,Asia,Malaysia,48863567,2003
+88,Asia,Nepal,121811,2003
+89,Asia,Oman,162792,2003
+90,Asia,Pakistan,977993,2003
+91,Asia,Philippines,1238870,2003
+92,Asia,North Korea,35630,2003
+93,Asia,Qatar,0,2003
+94,Asia,Saudi Arabia,1223962,2003
+95,Asia,Singapore,66778683,2003
+96,Asia,Syria,7652,2003
+97,Asia,Thailand,1395949,2003
+98,Asia,Tajikistan,0,2003
+99,Asia,Turkmenistan,0,2003
+100,Asia,Timor-Leste,240,2003
+101,Asia,Turkey,5075752,2003
+102,Asia,Uzbekistan,1588,2003
+103,Asia,Vietnam,5475966,2003
+104,Asia,Yemen,0,2003
+105,Europe,Albania,296,2003
+106,Europe,Andorra,11207,2003
+107,Europe,Austria,29511800,2003
+108,Europe,Belgium,1249464748,2003
+109,Europe,Bulgaria,13944142,2003
+110,Europe,Bosnia and Herzegovina,5425,2003
+111,Europe,Belarus,8730,2003
+112,Europe,Switzerland,83521520,2003
+113,Europe,Czechia,6435076,2003
+114,Europe,Germany,1375842047,2003
+115,Europe,Denmark,12528072,2003
+116,Europe,Spain,79656311,2003
+117,Europe,Estonia,205311,2003
+118,Europe,Finland,5199106,2003
+119,Europe,France,942406191,2003
+120,Europe,Faroe Islands,861217,2003
+121,Europe,United Kingdom,975010607,2003
+122,Europe,Gibraltar,0,2003
+123,Europe,Greece,1719151,2003
+124,Europe,Croatia,495468,2003
+125,Europe,Hungary,4913268,2003
+126,Europe,Ireland,9970005,2003
+127,Europe,Iceland,39031,2003
+128,Europe,Italy,232973552,2003
+129,Europe,Lithuania,2313956,2003
+130,Europe,Luxembourg,8221765,2003
+131,Europe,Latvia,107511,2003
+132,Europe,Moldova,0,2003
+133,Europe,North Macedonia,35786,2003
+134,Europe,Malta,101948,2003
+135,Europe,Netherlands,821495328,2003
+136,Europe,Norway,10358001,2003
+137,Europe,Poland,916488,2003
+138,Europe,Portugal,2555334,2003
+139,Europe,Romania,394035,2003
+140,Europe,Russia,5402056,2003
+141,Europe,Serbia and Montenegro,119897,2003
+142,Europe,San Marino,0,2003
+143,Europe,Slovakia,1336899,2003
+144,Europe,Slovenia,4002775,2003
+145,Europe,Sweden,64657948,2003
+146,Europe,Ukraine,816158,2003
+147,Europe,Holy See (Vatican City),15833,2003
+148,North America,Aruba,0,2003
+149,North America,Anguilla,905,2003
+150,North America,Netherlands Antilles,46317,2003
+151,North America,Antigua and Barbuda,0,2003
+152,North America,Bahamas,0,2003
+153,North America,Belize,2099,2003
+154,North America,Bermuda,212989,2003
+155,North America,Barbados,38487,2003
+156,North America,Canada,116057285,2003
+157,North America,Costa Rica,33938,2003
+158,North America,Cuba,480531,2003
+159,North America,Cayman Islands,463,2003
+160,North America,Dominica,29425,2003
+161,North America,Dominican Republic,15180,2003
+162,North America,Grenada,15745,2003
+163,North America,Greenland,6432,2003
+164,North America,Guatemala,96657,2003
+165,North America,Honduras,7368,2003
+166,North America,Haiti,0,2003
+167,North America,Jamaica,30763,2003
+168,North America,Saint Kitts and Nevis,0,2003
+169,North America,Saint Lucia,0,2003
+170,North America,Mexico,161438402,2003
+171,North America,Nicaragua,940,2003
+172,North America,Panama,663293,2003
+173,North America,El Salvador,103920,2003
+174,North America,Saint Pierre and Miquelon,0,2003
+175,North America,Turks and Caicos Islands,2365,2003
+176,North America,Trinidad and Tobago,36546,2003
+177,North America,United States Minor Outlying Islands,0,2003
+178,North America,United States,2216648761,2003
+179,North America,Saint Vincent and the Grenadines,0,2003
+180,North America,British Virgin Islands,40910,2003
+181,Oceania,American Samoa,16028,2003
+182,Oceania,Australia,160004029,2003
+183,Oceania,Cook Islands,0,2003
+184,Oceania,Fiji,10261,2003
+185,Oceania,Micronesia,0,2003
+186,Oceania,Guam,607,2003
+187,Oceania,Kiribati,0,2003
+188,Oceania,Marshall Islands,0,2003
+189,Oceania,Northern Mariana Islands,44,2003
+190,Oceania,New Caledonia,33,2003
+191,Oceania,Norfolk Island,0,2003
+192,Oceania,Niue,0,2003
+193,Oceania,New Zealand,1840932,2003
+194,Oceania,Papua New Guinea,290,2003
+195,Oceania,French Polynesia,5589,2003
+196,Oceania,Solomon Islands,1896,2003
+197,Oceania,Tonga,0,2003
+198,Oceania,Vanuatu,632,2003
+199,Oceania,Wallis and Futuna,0,2003
+200,Oceania,Samoa,0,2003
+201,South America,Argentina,42785601,2003
+202,South America,Bolivia,5313,2003
+203,South America,Brazil,100829707,2003
+204,South America,Chile,536247,2003
+205,South America,Colombia,1099186,2003
+206,South America,Ecuador,33646,2003
+207,South America,Guyana,0,2003
+208,South America,Peru,116121,2003
+209,South America,Paraguay,373,2003
+210,South America,Suriname,163,2003
+211,South America,Uruguay,249529,2003
+212,South America,Venezuela,31665,2003
+0,Africa,Angola,32,2004
+1,Africa,Burundi,0,2004
+2,Africa,Benin,1751,2004
+3,Africa,Burkina Faso,166,2004
+4,Africa,Botswana,4700,2004
+5,Africa,Central African Republic,0,2004
+6,Africa,Cote d'Ivoire,2375,2004
+7,Africa,Cameroon,0,2004
+8,Africa,Democratic Republic of the Congo,0,2004
+9,Africa,Republic of the Congo,1136,2004
+10,Africa,Comoros,0,2004
+11,Africa,Cape Verde,0,2004
+12,Africa,Djibouti,7911,2004
+13,Africa,Algeria,0,2004
+14,Africa,Egypt,222918,2004
+15,Africa,Eritrea,90327,2004
+16,Africa,Western Sahara,0,2004
+17,Africa,Ethiopia,0,2004
+18,Africa,Gabon,1131,2004
+19,Africa,Ghana,4085,2004
+20,Africa,Guinea,3854,2004
+21,Africa,Gambia,0,2004
+22,Africa,Guinea-Bissau,0,2004
+23,Africa,Equatorial Guinea,0,2004
+24,Africa,Kenya,117132,2004
+25,Africa,Liberia,0,2004
+26,Africa,Libya,0,2004
+27,Africa,Morocco,272186,2004
+28,Africa,Madagascar,0,2004
+29,Africa,Mali,5390,2004
+30,Africa,Mozambique,957,2004
+31,Africa,Mauritania,29021,2004
+32,Africa,Mauritius,14504,2004
+33,Africa,Malawi,63,2004
+34,Africa,Mayotte,0,2004
+35,Africa,Namibia,90,2004
+36,Africa,Niger,1760,2004
+37,Africa,Nigeria,8494,2004
+38,Africa,Rwanda,0,2004
+39,Africa,Sudan,3080,2004
+40,Africa,Senegal,335317,2004
+41,Africa,Saint Helena,0,2004
+42,Africa,Sierra Leone,0,2004
+43,Africa,Somalia,60,2004
+44,Africa,Sao Tome and Principe,0,2004
+45,Africa,Eswatini,71403,2004
+46,Africa,Seychelles,2,2004
+47,Africa,Chad,0,2004
+48,Africa,Togo,3937,2004
+49,Africa,Tunisia,72264,2004
+50,Africa,Tanzania,6589,2004
+51,Africa,Uganda,3394,2004
+52,Africa,South Africa,18209426,2004
+53,Africa,Zambia,0,2004
+54,Africa,Zimbabwe,307,2004
+55,Antarctica,Antarctica,13288,2004
+56,Asia,Afghanistan,0,2004
+57,Asia,United Arab Emirates,25396255,2004
+58,Asia,Armenia,5531,2004
+59,Asia,Azerbaijan,2030,2004
+60,Asia,Bangladesh,79020,2004
+61,Asia,Bahrain,15615,2004
+62,Asia,Brunei,3564,2004
+63,Asia,China,469617938,2004
+64,Asia,Cyprus,264434,2004
+65,Asia,Georgia,265474,2004
+66,Asia,Hong Kong,20045871,2004
+67,Asia,Indonesia,7400228,2004
+68,Asia,India,11844730,2004
+69,Asia,British Indian Ocean Territory,0,2004
+70,Asia,Iran,31911,2004
+71,Asia,Iraq,138,2004
+72,Asia,Israel,7104230,2004
+73,Asia,Jordan,106910,2004
+74,Asia,Japan,2281748935,2004
+75,Asia,Kazakhstan,5864,2004
+76,Asia,Kyrgyzstan,0,2004
+77,Asia,Cambodia,587121,2004
+78,Asia,South Korea,69565775,2004
+79,Asia,Kuwait,54259,2004
+80,Asia,Laos,0,2004
+81,Asia,Lebanon,282469,2004
+82,Asia,Sri Lanka,67105,2004
+83,Asia,Macau,563544,2004
+84,Asia,Maldives,609,2004
+85,Asia,Burma,0,2004
+86,Asia,Mongolia,2266,2004
+87,Asia,Malaysia,39831274,2004
+88,Asia,Nepal,7438,2004
+89,Asia,Oman,114984,2004
+90,Asia,Pakistan,1231704,2004
+91,Asia,Philippines,1721310,2004
+92,Asia,North Korea,43941,2004
+93,Asia,Qatar,99711,2004
+94,Asia,Saudi Arabia,2087559,2004
+95,Asia,Singapore,63605696,2004
+96,Asia,Syria,5174,2004
+97,Asia,Thailand,1358577,2004
+98,Asia,Tajikistan,108,2004
+99,Asia,Turkmenistan,0,2004
+100,Asia,Timor-Leste,0,2004
+101,Asia,Turkey,2922812,2004
+102,Asia,Uzbekistan,0,2004
+103,Asia,Vietnam,3870131,2004
+104,Asia,Yemen,0,2004
+105,Europe,Albania,6255,2004
+106,Europe,Andorra,216,2004
+107,Europe,Austria,28210112,2004
+108,Europe,Belgium,1314114720,2004
+109,Europe,Bulgaria,18405626,2004
+110,Europe,Bosnia and Herzegovina,39551,2004
+111,Europe,Belarus,158125,2004
+112,Europe,Switzerland,84557932,2004
+113,Europe,Czechia,7429872,2004
+114,Europe,Germany,1341226767,2004
+115,Europe,Denmark,17712732,2004
+116,Europe,Spain,70630900,2004
+117,Europe,Estonia,788314,2004
+118,Europe,Finland,7196005,2004
+119,Europe,France,1174033351,2004
+120,Europe,Faroe Islands,0,2004
+121,Europe,United Kingdom,888697755,2004
+122,Europe,Gibraltar,111,2004
+123,Europe,Greece,3541399,2004
+124,Europe,Croatia,378798,2004
+125,Europe,Hungary,2484182,2004
+126,Europe,Ireland,7076377,2004
+127,Europe,Iceland,364504,2004
+128,Europe,Italy,211192599,2004
+129,Europe,Lithuania,1884875,2004
+130,Europe,Luxembourg,7249750,2004
+131,Europe,Latvia,597249,2004
+132,Europe,Moldova,47,2004
+133,Europe,North Macedonia,130797,2004
+134,Europe,Malta,6976,2004
+135,Europe,Netherlands,771586282,2004
+136,Europe,Norway,11330026,2004
+137,Europe,Poland,3258629,2004
+138,Europe,Portugal,2960007,2004
+139,Europe,Romania,306991,2004
+140,Europe,Russia,7006619,2004
+141,Europe,Serbia and Montenegro,386728,2004
+142,Europe,San Marino,7942,2004
+143,Europe,Slovakia,1807169,2004
+144,Europe,Slovenia,4221485,2004
+145,Europe,Sweden,64503598,2004
+146,Europe,Ukraine,597015,2004
+147,Europe,Holy See (Vatican City),0,2004
+148,North America,Aruba,5679,2004
+149,North America,Anguilla,497,2004
+150,North America,Netherlands Antilles,53172,2004
+151,North America,Antigua and Barbuda,17,2004
+152,North America,Bahamas,37212,2004
+153,North America,Belize,0,2004
+154,North America,Bermuda,56007,2004
+155,North America,Barbados,60898,2004
+156,North America,Canada,69218625,2004
+157,North America,Costa Rica,21485,2004
+158,North America,Cuba,30924,2004
+159,North America,Cayman Islands,0,2004
+160,North America,Dominica,82769,2004
+161,North America,Dominican Republic,108291,2004
+162,North America,Grenada,0,2004
+163,North America,Greenland,2,2004
+164,North America,Guatemala,23526,2004
+165,North America,Honduras,24434,2004
+166,North America,Haiti,0,2004
+167,North America,Jamaica,8600,2004
+168,North America,Saint Kitts and Nevis,0,2004
+169,North America,Saint Lucia,0,2004
+170,North America,Mexico,245595302,2004
+171,North America,Nicaragua,910,2004
+172,North America,Panama,388546,2004
+173,North America,El Salvador,110452,2004
+174,North America,Saint Pierre and Miquelon,0,2004
+175,North America,Turks and Caicos Islands,0,2004
+176,North America,Trinidad and Tobago,43823,2004
+177,North America,United States Minor Outlying Islands,907,2004
+178,North America,United States,2284604382,2004
+179,North America,Saint Vincent and the Grenadines,0,2004
+180,North America,British Virgin Islands,38149,2004
+181,Oceania,American Samoa,992,2004
+182,Oceania,Australia,156277015,2004
+183,Oceania,Cook Islands,0,2004
+184,Oceania,Fiji,17514,2004
+185,Oceania,Micronesia,0,2004
+186,Oceania,Guam,0,2004
+187,Oceania,Kiribati,0,2004
+188,Oceania,Marshall Islands,0,2004
+189,Oceania,Northern Mariana Islands,7927,2004
+190,Oceania,New Caledonia,1369,2004
+191,Oceania,Norfolk Island,0,2004
+192,Oceania,Niue,0,2004
+193,Oceania,Nauru,0,2004
+194,Oceania,New Zealand,2666955,2004
+195,Oceania,Palau,0,2004
+196,Oceania,Papua New Guinea,471,2004
+197,Oceania,French Polynesia,3684,2004
+198,Oceania,Solomon Islands,0,2004
+199,Oceania,Tokelau,0,2004
+200,Oceania,Tonga,0,2004
+201,Oceania,Vanuatu,0,2004
+202,Oceania,Wallis and Futuna,0,2004
+203,Oceania,Samoa,907,2004
+204,South America,Argentina,46533937,2004
+205,South America,Bolivia,3962,2004
+206,South America,Brazil,117749348,2004
+207,South America,Chile,1292469,2004
+208,South America,Colombia,900143,2004
+209,South America,Ecuador,100396,2004
+210,South America,Falkland Islands,0,2004
+211,South America,Guyana,0,2004
+212,South America,Peru,226187,2004
+213,South America,Paraguay,78,2004
+214,South America,Suriname,0,2004
+215,South America,Uruguay,66974,2004
+216,South America,Venezuela,109851,2004
+0,Africa,Angola,267,2005
+1,Africa,Burundi,0,2005
+2,Africa,Benin,259,2005
+3,Africa,Burkina Faso,1200,2005
+4,Africa,Botswana,4812,2005
+5,Africa,Central African Republic,0,2005
+6,Africa,Cote d'Ivoire,0,2005
+7,Africa,Cameroon,9454,2005
+8,Africa,Democratic Republic of the Congo,10060,2005
+9,Africa,Republic of the Congo,47,2005
+10,Africa,Comoros,0,2005
+11,Africa,Cape Verde,978,2005
+12,Africa,Djibouti,200,2005
+13,Africa,Algeria,2563,2005
+14,Africa,Egypt,31035,2005
+15,Africa,Eritrea,0,2005
+16,Africa,Ethiopia,0,2005
+17,Africa,Gabon,5560,2005
+18,Africa,Ghana,2416,2005
+19,Africa,Guinea,0,2005
+20,Africa,Gambia,0,2005
+21,Africa,Guinea-Bissau,0,2005
+22,Africa,Equatorial Guinea,0,2005
+23,Africa,Kenya,254342,2005
+24,Africa,Liberia,0,2005
+25,Africa,Libya,0,2005
+26,Africa,Morocco,270797,2005
+27,Africa,Madagascar,313,2005
+28,Africa,Mali,0,2005
+29,Africa,Mozambique,0,2005
+30,Africa,Mauritania,0,2005
+31,Africa,Mauritius,36568,2005
+32,Africa,Malawi,0,2005
+33,Africa,Mayotte,0,2005
+34,Africa,Namibia,549211,2005
+35,Africa,Niger,51735,2005
+36,Africa,Nigeria,29057,2005
+37,Africa,Rwanda,0,2005
+38,Africa,Sudan,0,2005
+39,Africa,Senegal,3152,2005
+40,Africa,Saint Helena,0,2005
+41,Africa,Sierra Leone,0,2005
+42,Africa,Somalia,0,2005
+43,Africa,Sao Tome and Principe,0,2005
+44,Africa,Eswatini,10653,2005
+45,Africa,Seychelles,18294,2005
+46,Africa,Chad,0,2005
+47,Africa,Togo,43345,2005
+48,Africa,Tunisia,103805,2005
+49,Africa,Tanzania,9,2005
+50,Africa,Uganda,6999,2005
+51,Africa,South Africa,18933263,2005
+52,Africa,Zambia,295,2005
+53,Africa,Zimbabwe,4086,2005
+54,Antarctica,French South Antarctic Territory,0,2005
+55,Antarctica,Bouvet Island,0,2005
+56,Asia,Afghanistan,24961,2005
+57,Asia,United Arab Emirates,27244258,2005
+58,Asia,Armenia,2249,2005
+59,Asia,Azerbaijan,46421,2005
+60,Asia,Bangladesh,20728,2005
+61,Asia,Bahrain,71334,2005
+62,Asia,Brunei,374,2005
+63,Asia,China,698131155,2005
+64,Asia,Cyprus,1213713,2005
+65,Asia,Georgia,67412,2005
+66,Asia,Hong Kong,15147175,2005
+67,Asia,Indonesia,2985923,2005
+68,Asia,India,10598627,2005
+69,Asia,Iran,69886,2005
+70,Asia,Iraq,0,2005
+71,Asia,Israel,25732398,2005
+72,Asia,Jordan,20393,2005
+73,Asia,Japan,2218537857,2005
+74,Asia,Kazakhstan,2242,2005
+75,Asia,Kyrgyzstan,0,2005
+76,Asia,Cambodia,30938,2005
+77,Asia,South Korea,62110837,2005
+78,Asia,Kuwait,2450336,2005
+79,Asia,Laos,0,2005
+80,Asia,Lebanon,221952,2005
+81,Asia,Sri Lanka,68041,2005
+82,Asia,Macau,359693,2005
+83,Asia,Maldives,7773,2005
+84,Asia,Burma,2511,2005
+85,Asia,Mongolia,10090,2005
+86,Asia,Malaysia,59190207,2005
+87,Asia,Nepal,6715,2005
+88,Asia,Oman,38918,2005
+89,Asia,Pakistan,510256,2005
+90,Asia,Philippines,1230884,2005
+91,Asia,North Korea,138077,2005
+92,Asia,Palestine,0,2005
+93,Asia,Qatar,9644,2005
+94,Asia,Saudi Arabia,959843,2005
+95,Asia,Singapore,60968976,2005
+96,Asia,Syria,16904,2005
+97,Asia,Thailand,1663127,2005
+98,Asia,Tajikistan,0,2005
+99,Asia,Turkmenistan,811,2005
+100,Asia,Timor-Leste,0,2005
+101,Asia,Turkey,3970471,2005
+102,Asia,Uzbekistan,224969,2005
+103,Asia,Vietnam,7110103,2005
+104,Asia,Yemen,1003,2005
+105,Europe,Albania,1999,2005
+106,Europe,Andorra,43580,2005
+107,Europe,Austria,27090549,2005
+108,Europe,Belgium,1285622263,2005
+109,Europe,Bulgaria,17220250,2005
+110,Europe,Bosnia and Herzegovina,31023,2005
+111,Europe,Belarus,31115,2005
+112,Europe,Switzerland,55536605,2005
+113,Europe,Czechia,8105361,2005
+114,Europe,Germany,1182342726,2005
+115,Europe,Denmark,10215892,2005
+116,Europe,Spain,80584751,2005
+117,Europe,Estonia,345815,2005
+118,Europe,Finland,9265445,2005
+119,Europe,France,1042476533,2005
+120,Europe,Faroe Islands,0,2005
+121,Europe,United Kingdom,782324867,2005
+122,Europe,Gibraltar,1915,2005
+123,Europe,Greece,4662036,2005
+124,Europe,Croatia,990237,2005
+125,Europe,Hungary,2962491,2005
+126,Europe,Ireland,16127701,2005
+127,Europe,Iceland,71875,2005
+128,Europe,Italy,215333247,2005
+129,Europe,Lithuania,2082976,2005
+130,Europe,Luxembourg,5066348,2005
+131,Europe,Latvia,592625,2005
+132,Europe,Moldova,78623,2005
+133,Europe,North Macedonia,42579,2005
+134,Europe,Malta,36588,2005
+135,Europe,Netherlands,696753241,2005
+136,Europe,Norway,1646927,2005
+137,Europe,Poland,5467246,2005
+138,Europe,Portugal,3799283,2005
+139,Europe,Romania,332281,2005
+140,Europe,Russia,2324519,2005
+141,Europe,Serbia and Montenegro,1315108,2005
+142,Europe,Slovakia,2330692,2005
+143,Europe,Slovenia,5469290,2005
+144,Europe,Sweden,54438412,2005
+145,Europe,Ukraine,178519,2005
+146,Europe,Holy See (Vatican City),51,2005
+147,North America,Aruba,1524,2005
+148,North America,Anguilla,5964,2005
+149,North America,Netherlands Antilles,75371,2005
+150,North America,Antigua and Barbuda,208,2005
+151,North America,Bahamas,57610,2005
+152,North America,Belize,0,2005
+153,North America,Bermuda,151,2005
+154,North America,Barbados,7886,2005
+155,North America,Canada,35867092,2005
+156,North America,Costa Rica,18965,2005
+157,North America,Cuba,23305,2005
+158,North America,Cayman Islands,126,2005
+159,North America,Dominica,0,2005
+160,North America,Dominican Republic,59045,2005
+161,North America,Grenada,0,2005
+162,North America,Greenland,98,2005
+163,North America,Guatemala,387690,2005
+164,North America,Honduras,5293,2005
+165,North America,Haiti,15918,2005
+166,North America,Jamaica,13127,2005
+167,North America,Saint Kitts and Nevis,0,2005
+168,North America,Saint Lucia,0,2005
+169,North America,Mexico,181805072,2005
+170,North America,Nicaragua,544,2005
+171,North America,Panama,610529,2005
+172,North America,El Salvador,26834,2005
+173,North America,Saint Pierre and Miquelon,0,2005
+174,North America,Turks and Caicos Islands,0,2005
+175,North America,Trinidad and Tobago,39223,2005
+176,North America,United States Minor Outlying Islands,0,2005
+177,North America,United States,2058044952,2005
+178,North America,Saint Vincent and the Grenadines,0,2005
+179,North America,British Virgin Islands,17134,2005
+180,Oceania,American Samoa,0,2005
+181,Oceania,Australia,12794647,2005
+182,Oceania,Cook Islands,0,2005
+183,Oceania,Fiji,8464,2005
+184,Oceania,Micronesia,920,2005
+185,Oceania,Guam,0,2005
+186,Oceania,Kiribati,0,2005
+187,Oceania,Northern Mariana Islands,0,2005
+188,Oceania,New Caledonia,2659,2005
+189,Oceania,Norfolk Island,0,2005
+190,Oceania,Niue,0,2005
+191,Oceania,New Zealand,2239869,2005
+192,Oceania,Papua New Guinea,2032,2005
+193,Oceania,French Polynesia,0,2005
+194,Oceania,Solomon Islands,8064,2005
+195,Oceania,Tokelau,63320,2005
+196,Oceania,Tonga,0,2005
+197,Oceania,Tuvalu,0,2005
+198,Oceania,Vanuatu,0,2005
+199,Oceania,Wallis and Futuna,0,2005
+200,Oceania,Samoa,13074,2005
+201,South America,Argentina,47913956,2005
+202,South America,Bolivia,11830,2005
+203,South America,Brazil,109021010,2005
+204,South America,Chile,1710609,2005
+205,South America,Colombia,923928,2005
+206,South America,Ecuador,145687,2005
+207,South America,Falkland Islands,0,2005
+208,South America,Guyana,0,2005
+209,South America,Peru,851124,2005
+210,South America,Paraguay,49818,2005
+211,South America,Suriname,1178,2005
+212,South America,Uruguay,291062,2005
+213,South America,Venezuela,67325,2005
+0,Africa,Angola,0,2006
+1,Africa,Burundi,0,2006
+2,Africa,Benin,919,2006
+3,Africa,Burkina Faso,0,2006
+4,Africa,Botswana,3445,2006
+5,Africa,Central African Republic,0,2006
+6,Africa,Cote d'Ivoire,9055,2006
+7,Africa,Cameroon,2343,2006
+8,Africa,Democratic Republic of the Congo,7990,2006
+9,Africa,Republic of the Congo,53,2006
+10,Africa,Comoros,0,2006
+11,Africa,Cape Verde,442,2006
+12,Africa,Djibouti,1123,2006
+13,Africa,Algeria,6116,2006
+14,Africa,Egypt,103987,2006
+15,Africa,Eritrea,213676,2006
+16,Africa,Ethiopia,0,2006
+17,Africa,Gabon,0,2006
+18,Africa,Ghana,152042,2006
+19,Africa,Guinea,399,2006
+20,Africa,Gambia,0,2006
+21,Africa,Guinea-Bissau,0,2006
+22,Africa,Equatorial Guinea,0,2006
+23,Africa,Kenya,533514,2006
+24,Africa,Liberia,91,2006
+25,Africa,Libya,0,2006
+26,Africa,Lesotho,0,2006
+27,Africa,Morocco,410278,2006
+28,Africa,Madagascar,99,2006
+29,Africa,Mali,1419,2006
+30,Africa,Mozambique,1081,2006
+31,Africa,Mauritania,0,2006
+32,Africa,Mauritius,94913,2006
+33,Africa,Malawi,59,2006
+34,Africa,Mayotte,0,2006
+35,Africa,Namibia,16188,2006
+36,Africa,Niger,20049,2006
+37,Africa,Nigeria,22181,2006
+38,Africa,Rwanda,1116,2006
+39,Africa,Sudan,79,2006
+40,Africa,Senegal,12700,2006
+41,Africa,Saint Helena,0,2006
+42,Africa,Sierra Leone,44,2006
+43,Africa,Sao Tome and Principe,0,2006
+44,Africa,Eswatini,145641,2006
+45,Africa,Seychelles,7169,2006
+46,Africa,Chad,276,2006
+47,Africa,Togo,97736,2006
+48,Africa,Tunisia,53543,2006
+49,Africa,Tanzania,29248,2006
+50,Africa,Uganda,4698,2006
+51,Africa,South Africa,17523620,2006
+52,Africa,Zambia,0,2006
+53,Africa,Zimbabwe,96,2006
+54,Antarctica,French South Antarctic Territory,1322,2006
+55,Asia,Afghanistan,1299,2006
+56,Asia,United Arab Emirates,28073222,2006
+57,Asia,Armenia,4938,2006
+58,Asia,Azerbaijan,16217,2006
+59,Asia,Bangladesh,89051,2006
+60,Asia,Bahrain,41864,2006
+61,Asia,Brunei,1937,2006
+62,Asia,Cocos (Keeling) Islands,0,2006
+63,Asia,China,506297444,2006
+64,Asia,Cyprus,905756,2006
+65,Asia,Georgia,38298,2006
+66,Asia,Hong Kong,21524721,2006
+67,Asia,Indonesia,1763114,2006
+68,Asia,India,12197673,2006
+69,Asia,Iran,10767,2006
+70,Asia,Iraq,0,2006
+71,Asia,Israel,25841479,2006
+72,Asia,Jordan,113080,2006
+73,Asia,Japan,2116863432,2006
+74,Asia,Kazakhstan,47117,2006
+75,Asia,Kyrgyzstan,0,2006
+76,Asia,Cambodia,132,2006
+77,Asia,South Korea,78757112,2006
+78,Asia,Kuwait,581182,2006
+79,Asia,Laos,0,2006
+80,Asia,Lebanon,1083730,2006
+81,Asia,Sri Lanka,94183,2006
+82,Asia,Macau,126952,2006
+83,Asia,Maldives,0,2006
+84,Asia,Burma,908,2006
+85,Asia,Mongolia,43204,2006
+86,Asia,Malaysia,68025874,2006
+87,Asia,Nepal,9,2006
+88,Asia,Oman,33744,2006
+89,Asia,Pakistan,876787,2006
+90,Asia,Philippines,1449102,2006
+91,Asia,North Korea,99478,2006
+92,Asia,Palestine,0,2006
+93,Asia,Qatar,57007,2006
+94,Asia,Saudi Arabia,803006,2006
+95,Asia,Singapore,52278801,2006
+96,Asia,Syria,32142,2006
+97,Asia,Thailand,3204552,2006
+98,Asia,Tajikistan,0,2006
+99,Asia,Turkmenistan,463,2006
+100,Asia,Timor-Leste,0,2006
+101,Asia,Turkey,3551534,2006
+102,Asia,Uzbekistan,6456,2006
+103,Asia,Vietnam,4112191,2006
+104,Asia,Yemen,955,2006
+105,Europe,Albania,1147,2006
+106,Europe,Andorra,767,2006
+107,Europe,Austria,20786981,2006
+108,Europe,Belgium,1349268769,2006
+109,Europe,Bulgaria,37439393,2006
+110,Europe,Bosnia and Herzegovina,48918,2006
+111,Europe,Belarus,24295,2006
+112,Europe,Switzerland,48966236,2006
+113,Europe,Czechia,8930370,2006
+114,Europe,Germany,1112810518,2006
+115,Europe,Denmark,7233668,2006
+116,Europe,Spain,81858753,2006
+117,Europe,Estonia,163372,2006
+118,Europe,Finland,12273808,2006
+119,Europe,France,873358216,2006
+120,Europe,Faroe Islands,49289,2006
+121,Europe,United Kingdom,763788903,2006
+122,Europe,Gibraltar,0,2006
+123,Europe,Greece,5079576,2006
+124,Europe,Croatia,1009605,2006
+125,Europe,Hungary,3276809,2006
+126,Europe,Ireland,5547527,2006
+127,Europe,Iceland,592489,2006
+128,Europe,Italy,225778547,2006
+129,Europe,Lithuania,2295553,2006
+130,Europe,Luxembourg,6656752,2006
+131,Europe,Latvia,2000709,2006
+132,Europe,Moldova,200115,2006
+133,Europe,North Macedonia,113574,2006
+134,Europe,Malta,10884,2006
+135,Europe,Montenegro,7797,2006
+136,Europe,Netherlands,686388578,2006
+137,Europe,Norway,1709360,2006
+138,Europe,Poland,6720677,2006
+139,Europe,Portugal,3330293,2006
+140,Europe,Romania,546566,2006
+141,Europe,Russia,2119849,2006
+142,Europe,Serbia and Montenegro,171328,2006
+143,Europe,San Marino,0,2006
+144,Europe,Serbia,480318,2006
+145,Europe,Slovakia,2806450,2006
+146,Europe,Slovenia,4104860,2006
+147,Europe,Sweden,47024633,2006
+148,Europe,Ukraine,206454,2006
+149,North America,Aruba,7971,2006
+150,North America,Netherlands Antilles,51631,2006
+151,North America,Antigua and Barbuda,0,2006
+152,North America,Bahamas,14537,2006
+153,North America,Belize,16637,2006
+154,North America,Bermuda,181166,2006
+155,North America,Barbados,34362,2006
+156,North America,Canada,13416493,2006
+157,North America,Costa Rica,25073,2006
+158,North America,Cuba,88164,2006
+159,North America,Cayman Islands,948546,2006
+160,North America,Dominica,0,2006
+161,North America,Dominican Republic,18953,2006
+162,North America,Grenada,0,2006
+163,North America,Greenland,1970,2006
+164,North America,Guatemala,1177327,2006
+165,North America,Honduras,11041,2006
+166,North America,Haiti,0,2006
+167,North America,Jamaica,3062,2006
+168,North America,Saint Kitts and Nevis,0,2006
+169,North America,Saint Lucia,0,2006
+170,North America,Mexico,158338898,2006
+171,North America,Montserrat,838,2006
+172,North America,Nicaragua,7797,2006
+173,North America,Panama,518965,2006
+174,North America,El Salvador,99600,2006
+175,North America,Saint Pierre and Miquelon,0,2006
+176,North America,Turks and Caicos Islands,0,2006
+177,North America,Trinidad and Tobago,21575,2006
+178,North America,United States Minor Outlying Islands,58,2006
+179,North America,United States,2554556966,2006
+180,North America,Saint Vincent and the Grenadines,5,2006
+181,North America,British Virgin Islands,6395,2006
+182,Oceania,American Samoa,0,2006
+183,Oceania,Australia,4442037,2006
+184,Oceania,Cook Islands,0,2006
+185,Oceania,Fiji,6451,2006
+186,Oceania,Micronesia,0,2006
+187,Oceania,Guam,3080,2006
+188,Oceania,Kiribati,0,2006
+189,Oceania,New Caledonia,7041,2006
+190,Oceania,Norfolk Island,6248,2006
+191,Oceania,Niue,0,2006
+192,Oceania,Nauru,0,2006
+193,Oceania,New Zealand,3190618,2006
+194,Oceania,Palau,0,2006
+195,Oceania,Papua New Guinea,3417,2006
+196,Oceania,French Polynesia,27,2006
+197,Oceania,Solomon Islands,0,2006
+198,Oceania,Tokelau,5119,2006
+199,Oceania,Tonga,0,2006
+200,Oceania,Vanuatu,0,2006
+201,Oceania,Wallis and Futuna,0,2006
+202,Oceania,Samoa,0,2006
+203,South America,Argentina,58737343,2006
+204,South America,Bolivia,2668,2006
+205,South America,Brazil,63402436,2006
+206,South America,Chile,807317,2006
+207,South America,Colombia,435606,2006
+208,South America,Ecuador,72488,2006
+209,South America,Guyana,0,2006
+210,South America,Peru,1551609,2006
+211,South America,Paraguay,396,2006
+212,South America,Suriname,0,2006
+213,South America,Uruguay,16523,2006
+214,South America,Venezuela,72422,2006
+0,Africa,Angola,87613,2007
+1,Africa,Burundi,0,2007
+2,Africa,Benin,0,2007
+3,Africa,Burkina Faso,29906,2007
+4,Africa,Botswana,2627,2007
+5,Africa,Central African Republic,0,2007
+6,Africa,Cote d'Ivoire,4373,2007
+7,Africa,Cameroon,1255,2007
+8,Africa,Democratic Republic of the Congo,12429,2007
+9,Africa,Republic of the Congo,0,2007
+10,Africa,Comoros,0,2007
+11,Africa,Cape Verde,0,2007
+12,Africa,Djibouti,0,2007
+13,Africa,Algeria,0,2007
+14,Africa,Egypt,159069,2007
+15,Africa,Eritrea,101021,2007
+16,Africa,Ethiopia,22316,2007
+17,Africa,Gabon,115766,2007
+18,Africa,Ghana,6617,2007
+19,Africa,Guinea,0,2007
+20,Africa,Gambia,0,2007
+21,Africa,Guinea-Bissau,0,2007
+22,Africa,Equatorial Guinea,8793,2007
+23,Africa,Kenya,235935,2007
+24,Africa,Liberia,0,2007
+25,Africa,Libya,2015,2007
+26,Africa,Morocco,251836,2007
+27,Africa,Madagascar,0,2007
+28,Africa,Mali,58434,2007
+29,Africa,Mozambique,0,2007
+30,Africa,Mauritania,0,2007
+31,Africa,Mauritius,50265,2007
+32,Africa,Malawi,379,2007
+33,Africa,Mayotte,0,2007
+34,Africa,Namibia,113,2007
+35,Africa,Niger,15339,2007
+36,Africa,Nigeria,43430,2007
+37,Africa,Rwanda,0,2007
+38,Africa,Sudan,106,2007
+39,Africa,Senegal,137902,2007
+40,Africa,Saint Helena,0,2007
+41,Africa,Sierra Leone,381,2007
+42,Africa,Somalia,684,2007
+43,Africa,Sao Tome and Principe,0,2007
+44,Africa,Eswatini,49690,2007
+45,Africa,Seychelles,14442,2007
+46,Africa,Chad,0,2007
+47,Africa,Togo,42064,2007
+48,Africa,Tunisia,69358,2007
+49,Africa,Tanzania,6349,2007
+50,Africa,Uganda,55817,2007
+51,Africa,South Africa,18060530,2007
+52,Africa,Zambia,6391,2007
+53,Africa,Zimbabwe,12674,2007
+54,Antarctica,French South Antarctic Territory,0,2007
+55,Asia,Afghanistan,1255,2007
+56,Asia,United Arab Emirates,31892669,2007
+57,Asia,Armenia,55505,2007
+58,Asia,Azerbaijan,72189,2007
+59,Asia,Bangladesh,80588,2007
+60,Asia,Bahrain,4373,2007
+61,Asia,Brunei,5242,2007
+62,Asia,China,403061671,2007
+63,Asia,Cyprus,1425659,2007
+64,Asia,Georgia,318505,2007
+65,Asia,Hong Kong,33521461,2007
+66,Asia,Indonesia,4095130,2007
+67,Asia,India,12905625,2007
+68,Asia,British Indian Ocean Territory,1197,2007
+69,Asia,Iran,177414,2007
+70,Asia,Iraq,2814,2007
+71,Asia,Israel,46806745,2007
+72,Asia,Jordan,207468,2007
+73,Asia,Japan,2199565119,2007
+74,Asia,Kazakhstan,133664,2007
+75,Asia,Kyrgyzstan,17912,2007
+76,Asia,Cambodia,42907,2007
+77,Asia,South Korea,81982271,2007
+78,Asia,Kuwait,313910,2007
+79,Asia,Laos,0,2007
+80,Asia,Lebanon,749339,2007
+81,Asia,Sri Lanka,84149,2007
+82,Asia,Macau,62027,2007
+83,Asia,Maldives,1419,2007
+84,Asia,Burma,0,2007
+85,Asia,Mongolia,0,2007
+86,Asia,Malaysia,81871933,2007
+87,Asia,Nepal,33064,2007
+88,Asia,Oman,59024,2007
+89,Asia,Pakistan,543518,2007
+90,Asia,Philippines,789394,2007
+91,Asia,North Korea,30608,2007
+92,Asia,Palestine,0,2007
+93,Asia,Qatar,12617,2007
+94,Asia,Saudi Arabia,727937,2007
+95,Asia,Singapore,56095584,2007
+96,Asia,Syria,43875,2007
+97,Asia,Thailand,8332722,2007
+98,Asia,Tajikistan,0,2007
+99,Asia,Turkmenistan,0,2007
+100,Asia,Timor-Leste,0,2007
+101,Asia,Turkey,5069098,2007
+102,Asia,Uzbekistan,6789,2007
+103,Asia,Vietnam,989915,2007
+104,Asia,Yemen,240990,2007
+105,Europe,Albania,3818,2007
+106,Europe,Andorra,10897,2007
+107,Europe,Austria,19545619,2007
+108,Europe,Belgium,1216546307,2007
+109,Europe,Bulgaria,53188693,2007
+110,Europe,Bosnia and Herzegovina,45550,2007
+111,Europe,Belarus,18199,2007
+112,Europe,Switzerland,51154349,2007
+113,Europe,Czechia,15520655,2007
+114,Europe,Germany,1325884988,2007
+115,Europe,Denmark,5872551,2007
+116,Europe,Spain,87085192,2007
+117,Europe,Estonia,3317579,2007
+118,Europe,Finland,11562684,2007
+119,Europe,France,835059430,2007
+120,Europe,Faroe Islands,504,2007
+121,Europe,United Kingdom,715548954,2007
+122,Europe,Gibraltar,20231,2007
+123,Europe,Greece,9028629,2007
+124,Europe,Croatia,2148797,2007
+125,Europe,Hungary,6009248,2007
+126,Europe,Ireland,24585914,2007
+127,Europe,Iceland,47772,2007
+128,Europe,Italy,245921603,2007
+129,Europe,Lithuania,3746834,2007
+130,Europe,Luxembourg,4430411,2007
+131,Europe,Latvia,3207255,2007
+132,Europe,Moldova,154238,2007
+133,Europe,North Macedonia,117091,2007
+134,Europe,Malta,137743,2007
+135,Europe,Montenegro,2711,2007
+136,Europe,Netherlands,694304599,2007
+137,Europe,Norway,926064,2007
+138,Europe,Poland,5532954,2007
+139,Europe,Portugal,4819430,2007
+140,Europe,Romania,697819,2007
+141,Europe,Russia,2700390,2007
+142,Europe,San Marino,0,2007
+143,Europe,Serbia,1006275,2007
+144,Europe,Slovakia,5078012,2007
+145,Europe,Slovenia,5928280,2007
+146,Europe,Sweden,33111460,2007
+147,Europe,Ukraine,895385,2007
+148,Europe,Holy See (Vatican City),888,2007
+149,North America,Aruba,1155,2007
+150,North America,Netherlands Antilles,18225,2007
+151,North America,Antigua and Barbuda,0,2007
+152,North America,Bahamas,0,2007
+153,North America,Belize,9570,2007
+154,North America,Bermuda,14234,2007
+155,North America,Barbados,37906,2007
+156,North America,Canada,9487588,2007
+157,North America,Costa Rica,188751,2007
+158,North America,Cuba,6957,2007
+159,North America,Cayman Islands,0,2007
+160,North America,Dominica,143,2007
+161,North America,Dominican Republic,10151,2007
+162,North America,Grenada,0,2007
+163,North America,Greenland,0,2007
+164,North America,Guatemala,647200,2007
+165,North America,Honduras,31514,2007
+166,North America,Haiti,0,2007
+167,North America,Jamaica,62938,2007
+168,North America,Saint Kitts and Nevis,0,2007
+169,North America,Saint Lucia,0,2007
+170,North America,Mexico,166509635,2007
+171,North America,Nicaragua,368,2007
+172,North America,Panama,334927,2007
+173,North America,El Salvador,179461,2007
+174,North America,Saint Pierre and Miquelon,0,2007
+175,North America,Turks and Caicos Islands,0,2007
+176,North America,Trinidad and Tobago,24159,2007
+177,North America,United States,2587496216,2007
+178,North America,Saint Vincent and the Grenadines,0,2007
+179,North America,British Virgin Islands,69358,2007
+180,Oceania,American Samoa,0,2007
+181,Oceania,Australia,28746890,2007
+182,Oceania,Cook Islands,0,2007
+183,Oceania,Fiji,8484,2007
+184,Oceania,Micronesia,0,2007
+185,Oceania,Guam,45,2007
+186,Oceania,Kiribati,0,2007
+187,Oceania,Marshall Islands,0,2007
+188,Oceania,New Caledonia,9297,2007
+189,Oceania,Norfolk Island,0,2007
+190,Oceania,Niue,0,2007
+191,Oceania,New Zealand,2390007,2007
+192,Oceania,Palau,0,2007
+193,Oceania,Papua New Guinea,0,2007
+194,Oceania,French Polynesia,98,2007
+195,Oceania,Solomon Islands,0,2007
+196,Oceania,Tokelau,29726,2007
+197,Oceania,Tonga,0,2007
+198,Oceania,Tuvalu,0,2007
+199,Oceania,Vanuatu,0,2007
+200,Oceania,Samoa,0,2007
+201,South America,Argentina,58423508,2007
+202,South America,Bolivia,3566,2007
+203,South America,Brazil,57222270,2007
+204,South America,Chile,936197,2007
+205,South America,Colombia,891645,2007
+206,South America,Ecuador,49431,2007
+207,South America,Falkland Islands,0,2007
+208,South America,Guyana,0,2007
+209,South America,Peru,738500,2007
+210,South America,Paraguay,4978,2007
+211,South America,Suriname,22920,2007
+212,South America,Uruguay,376983,2007
+213,South America,Venezuela,90960,2007
+0,Africa,Angola,8700,2008
+1,Africa,Burundi,0,2008
+2,Africa,Benin,0,2008
+3,Africa,Burkina Faso,0,2008
+4,Africa,Botswana,4664,2008
+5,Africa,Central African Republic,0,2008
+6,Africa,Cote d'Ivoire,3407,2008
+7,Africa,Cameroon,18800,2008
+8,Africa,Democratic Republic of the Congo,0,2008
+9,Africa,Republic of the Congo,2632,2008
+10,Africa,Cape Verde,10556,2008
+11,Africa,Djibouti,0,2008
+12,Africa,Algeria,5670,2008
+13,Africa,Egypt,372715,2008
+14,Africa,Eritrea,0,2008
+15,Africa,Ethiopia,89,2008
+16,Africa,Gabon,0,2008
+17,Africa,Ghana,8903,2008
+18,Africa,Guinea,0,2008
+19,Africa,Gambia,0,2008
+20,Africa,Guinea-Bissau,0,2008
+21,Africa,Equatorial Guinea,0,2008
+22,Africa,Kenya,263816,2008
+23,Africa,Liberia,0,2008
+24,Africa,Libya,4012,2008
+25,Africa,Lesotho,0,2008
+26,Africa,Morocco,219276,2008
+27,Africa,Madagascar,21272,2008
+28,Africa,Mali,0,2008
+29,Africa,Mozambique,8,2008
+30,Africa,Mauritania,0,2008
+31,Africa,Mauritius,43284,2008
+32,Africa,Malawi,0,2008
+33,Africa,Mayotte,0,2008
+34,Africa,Namibia,40,2008
+35,Africa,Niger,14722,2008
+36,Africa,Nigeria,3235,2008
+37,Africa,Rwanda,0,2008
+38,Africa,Sudan,0,2008
+39,Africa,Senegal,77599,2008
+40,Africa,Saint Helena,0,2008
+41,Africa,Sierra Leone,0,2008
+42,Africa,Somalia,0,2008
+43,Africa,Sao Tome and Principe,0,2008
+44,Africa,Eswatini,23583,2008
+45,Africa,Seychelles,760,2008
+46,Africa,Chad,0,2008
+47,Africa,Togo,17603,2008
+48,Africa,Tunisia,245161,2008
+49,Africa,Tanzania,8060,2008
+50,Africa,Uganda,7865,2008
+51,Africa,South Africa,7212801,2008
+52,Africa,Zambia,5894,2008
+53,Africa,Zimbabwe,23,2008
+54,Antarctica,Antarctica,0,2008
+55,Antarctica,French South Antarctic Territory,0,2008
+56,Asia,Afghanistan,0,2008
+57,Asia,United Arab Emirates,21202509,2008
+58,Asia,Armenia,3682,2008
+59,Asia,Azerbaijan,789,2008
+60,Asia,Bangladesh,213458,2008
+61,Asia,Bahrain,5981,2008
+62,Asia,Brunei,13932,2008
+63,Asia,China,400509898,2008
+64,Asia,Cyprus,1134789,2008
+65,Asia,Georgia,94749,2008
+66,Asia,Hong Kong,24493675,2008
+67,Asia,Indonesia,1995770,2008
+68,Asia,India,11015877,2008
+69,Asia,Iran,11343,2008
+70,Asia,Iraq,5869,2008
+71,Asia,Israel,61234458,2008
+72,Asia,Jordan,93311,2008
+73,Asia,Japan,2100812690,2008
+74,Asia,Kazakhstan,72794,2008
+75,Asia,Kyrgyzstan,0,2008
+76,Asia,Cambodia,10113,2008
+77,Asia,South Korea,75035346,2008
+78,Asia,Kuwait,155103,2008
+79,Asia,Laos,0,2008
+80,Asia,Lebanon,290733,2008
+81,Asia,Sri Lanka,133245,2008
+82,Asia,Macau,45640,2008
+83,Asia,Maldives,9946,2008
+84,Asia,Burma,0,2008
+85,Asia,Mongolia,3740,2008
+86,Asia,Malaysia,94197011,2008
+87,Asia,Nepal,381,2008
+88,Asia,Oman,30150,2008
+89,Asia,Pakistan,431956,2008
+90,Asia,Philippines,243175,2008
+91,Asia,North Korea,95494,2008
+92,Asia,Palestine,205,2008
+93,Asia,Qatar,5840,2008
+94,Asia,Saudi Arabia,221640,2008
+95,Asia,Singapore,54690733,2008
+96,Asia,Syria,15325,2008
+97,Asia,Thailand,10789811,2008
+98,Asia,Tajikistan,157,2008
+99,Asia,Turkmenistan,0,2008
+100,Asia,Timor-Leste,0,2008
+101,Asia,Turkey,5422043,2008
+102,Asia,Uzbekistan,1400,2008
+103,Asia,Vietnam,1082036,2008
+104,Asia,Yemen,727363,2008
+105,Europe,Albania,298936,2008
+106,Europe,Andorra,4554,2008
+107,Europe,Austria,15356687,2008
+108,Europe,Belgium,1276921764,2008
+109,Europe,Bulgaria,42454350,2008
+110,Europe,Bosnia and Herzegovina,68782,2008
+111,Europe,Belarus,155393,2008
+112,Europe,Switzerland,40917018,2008
+113,Europe,Czechia,13145705,2008
+114,Europe,Germany,1210760587,2008
+115,Europe,Denmark,5497438,2008
+116,Europe,Spain,101436734,2008
+117,Europe,Estonia,427723,2008
+118,Europe,Finland,13159570,2008
+119,Europe,France,719044959,2008
+120,Europe,Faroe Islands,9,2008
+121,Europe,United Kingdom,735986090,2008
+122,Europe,Gibraltar,0,2008
+123,Europe,Greece,5804136,2008
+124,Europe,Croatia,1109307,2008
+125,Europe,Hungary,5559675,2008
+126,Europe,Ireland,5085252,2008
+127,Europe,Iceland,31596,2008
+128,Europe,Italy,175200813,2008
+129,Europe,Lithuania,3157986,2008
+130,Europe,Luxembourg,4164215,2008
+131,Europe,Latvia,2147623,2008
+132,Europe,Moldova,41135,2008
+133,Europe,North Macedonia,178037,2008
+134,Europe,Malta,4052009,2008
+135,Europe,Montenegro,1300,2008
+136,Europe,Netherlands,664106036,2008
+137,Europe,Norway,774359,2008
+138,Europe,Poland,2344294,2008
+139,Europe,Portugal,4152420,2008
+140,Europe,Romania,323126,2008
+141,Europe,Russia,2243784,2008
+142,Europe,San Marino,0,2008
+143,Europe,Serbia,2530053,2008
+144,Europe,Slovakia,5123170,2008
+145,Europe,Slovenia,4182419,2008
+146,Europe,Sweden,29454825,2008
+147,Europe,Ukraine,1024775,2008
+148,North America,Aruba,3296,2008
+149,North America,Anguilla,8434,2008
+150,North America,Netherlands Antilles,1003,2008
+151,North America,Antigua and Barbuda,38552,2008
+152,North America,Bahamas,42731,2008
+153,North America,Belize,160151,2008
+154,North America,Bermuda,183,2008
+155,North America,Barbados,47599,2008
+156,North America,Canada,6026965,2008
+157,North America,Costa Rica,75521,2008
+158,North America,Cuba,23224,2008
+159,North America,Cayman Islands,0,2008
+160,North America,Dominica,0,2008
+161,North America,Dominican Republic,41616,2008
+162,North America,Grenada,0,2008
+163,North America,Greenland,63860,2008
+164,North America,Guatemala,689290,2008
+165,North America,Honduras,7302,2008
+166,North America,Haiti,0,2008
+167,North America,Jamaica,33868,2008
+168,North America,Saint Kitts and Nevis,0,2008
+169,North America,Saint Lucia,0,2008
+170,North America,Mexico,103680340,2008
+171,North America,Nicaragua,1444,2008
+172,North America,Panama,457831,2008
+173,North America,El Salvador,77723,2008
+174,North America,Saint Pierre and Miquelon,0,2008
+175,North America,Turks and Caicos Islands,0,2008
+176,North America,Trinidad and Tobago,24891,2008
+177,North America,United States Minor Outlying Islands,14427,2008
+178,North America,United States,2371407395,2008
+179,North America,Saint Vincent and the Grenadines,0,2008
+180,North America,British Virgin Islands,40627,2008
+181,Oceania,American Samoa,35649,2008
+182,Oceania,Australia,37447043,2008
+183,Oceania,Cook Islands,0,2008
+184,Oceania,Fiji,2439,2008
+185,Oceania,Guam,0,2008
+186,Oceania,Kiribati,0,2008
+187,Oceania,Northern Mariana Islands,0,2008
+188,Oceania,New Caledonia,4619,2008
+189,Oceania,Norfolk Island,0,2008
+190,Oceania,Nauru,0,2008
+191,Oceania,New Zealand,2879770,2008
+192,Oceania,Papua New Guinea,3606,2008
+193,Oceania,French Polynesia,944,2008
+194,Oceania,Solomon Islands,0,2008
+195,Oceania,Tokelau,10620,2008
+196,Oceania,Tonga,0,2008
+197,Oceania,Vanuatu,0,2008
+198,Oceania,Samoa,0,2008
+199,South America,Argentina,57896901,2008
+200,South America,Bolivia,2143,2008
+201,South America,Brazil,66002584,2008
+202,South America,Chile,2323200,2008
+203,South America,Colombia,607301,2008
+204,South America,Ecuador,30692,2008
+205,South America,Guyana,0,2008
+206,South America,Peru,1000784,2008
+207,South America,Paraguay,24,2008
+208,South America,Suriname,467,2008
+209,South America,Uruguay,126498,2008
+210,South America,Venezuela,21094,2008
+0,Africa,Angola,19925,2009
+1,Africa,Burundi,52160,2009
+2,Africa,Benin,0,2009
+3,Africa,Burkina Faso,1482,2009
+4,Africa,Botswana,8453,2009
+5,Africa,Central African Republic,1410,2009
+6,Africa,Cote d'Ivoire,0,2009
+7,Africa,Cameroon,1260,2009
+8,Africa,Democratic Republic of the Congo,6242,2009
+9,Africa,Republic of the Congo,6768,2009
+10,Africa,Comoros,0,2009
+11,Africa,Cape Verde,0,2009
+12,Africa,Djibouti,0,2009
+13,Africa,Algeria,16237,2009
+14,Africa,Egypt,974400,2009
+15,Africa,Eritrea,0,2009
+16,Africa,Western Sahara,346,2009
+17,Africa,Ethiopia,53,2009
+18,Africa,Gabon,0,2009
+19,Africa,Ghana,1942,2009
+20,Africa,Guinea,10578,2009
+21,Africa,Gambia,0,2009
+22,Africa,Guinea-Bissau,0,2009
+23,Africa,Equatorial Guinea,0,2009
+24,Africa,Kenya,161839,2009
+25,Africa,Liberia,69808,2009
+26,Africa,Libya,911,2009
+27,Africa,Lesotho,0,2009
+28,Africa,Morocco,472230,2009
+29,Africa,Madagascar,75,2009
+30,Africa,Mali,0,2009
+31,Africa,Mozambique,0,2009
+32,Africa,Mauritania,16107,2009
+33,Africa,Mauritius,225562,2009
+34,Africa,Malawi,5,2009
+35,Africa,Mayotte,0,2009
+36,Africa,Namibia,24405,2009
+37,Africa,Niger,0,2009
+38,Africa,Nigeria,1559,2009
+39,Africa,Rwanda,0,2009
+40,Africa,Sudan,101,2009
+41,Africa,Senegal,39718,2009
+42,Africa,Saint Helena,0,2009
+43,Africa,Sierra Leone,138,2009
+44,Africa,Somalia,0,2009
+45,Africa,Sao Tome and Principe,0,2009
+46,Africa,Eswatini,24525,2009
+47,Africa,Seychelles,0,2009
+48,Africa,Chad,0,2009
+49,Africa,Togo,6263,2009
+50,Africa,Tunisia,207616,2009
+51,Africa,Tanzania,34681,2009
+52,Africa,Uganda,5355,2009
+53,Africa,South Africa,10379809,2009
+54,Africa,Zambia,1232,2009
+55,Africa,Zimbabwe,0,2009
+56,Antarctica,French South Antarctic Territory,0,2009
+57,Antarctica,Bouvet Island,2589,2009
+58,Antarctica,Heard Island and McDonald Islands,0,2009
+59,Antarctica,South Georgia South Sandwich Islands,5026,2009
+60,Asia,Afghanistan,461408,2009
+61,Asia,United Arab Emirates,16919802,2009
+62,Asia,Armenia,1328,2009
+63,Asia,Azerbaijan,60,2009
+64,Asia,Bangladesh,6255,2009
+65,Asia,Bahrain,19370,2009
+66,Asia,Brunei,5593,2009
+67,Asia,Cocos (Keeling) Islands,74,2009
+68,Asia,China,328393712,2009
+69,Asia,Cyprus,372958,2009
+70,Asia,Georgia,9927,2009
+71,Asia,Hong Kong,19013983,2009
+72,Asia,Indonesia,1431406,2009
+73,Asia,India,11345019,2009
+74,Asia,British Indian Ocean Territory,0,2009
+75,Asia,Iran,24024,2009
+76,Asia,Iraq,49312,2009
+77,Asia,Israel,15872330,2009
+78,Asia,Jordan,33669,2009
+79,Asia,Japan,1746086871,2009
+80,Asia,Kazakhstan,1823,2009
+81,Asia,Kyrgyzstan,35377,2009
+82,Asia,Cambodia,151,2009
+83,Asia,South Korea,59436777,2009
+84,Asia,Kuwait,710377,2009
+85,Asia,Laos,0,2009
+86,Asia,Lebanon,69933,2009
+87,Asia,Sri Lanka,7580,2009
+88,Asia,Macau,19776,2009
+89,Asia,Maldives,6344,2009
+90,Asia,Burma,0,2009
+91,Asia,Mongolia,276,2009
+92,Asia,Malaysia,122253879,2009
+93,Asia,Nepal,0,2009
+94,Asia,Oman,1219,2009
+95,Asia,Pakistan,1566616,2009
+96,Asia,Philippines,306562,2009
+97,Asia,North Korea,18709,2009
+98,Asia,Palestine,0,2009
+99,Asia,Qatar,22687,2009
+100,Asia,Saudi Arabia,356195,2009
+101,Asia,Singapore,26945406,2009
+102,Asia,Syria,80942,2009
+103,Asia,Thailand,10926317,2009
+104,Asia,Tajikistan,0,2009
+105,Asia,Turkmenistan,0,2009
+106,Asia,Timor-Leste,0,2009
+107,Asia,Turkey,3824876,2009
+108,Asia,Uzbekistan,0,2009
+109,Asia,Vietnam,1570448,2009
+110,Asia,Yemen,691,2009
+111,Europe,Albania,713460,2009
+112,Europe,Andorra,5248,2009
+113,Europe,Austria,13092948,2009
+114,Europe,Belgium,1003612681,2009
+115,Europe,Bulgaria,51884867,2009
+116,Europe,Bosnia and Herzegovina,52009,2009
+117,Europe,Belarus,144915,2009
+118,Europe,Switzerland,34946632,2009
+119,Europe,Czechia,15958651,2009
+120,Europe,Germany,980380101,2009
+121,Europe,Denmark,3068630,2009
+122,Europe,Spain,79193744,2009
+123,Europe,Estonia,816642,2009
+124,Europe,Finland,8448544,2009
+125,Europe,France,501875456,2009
+126,Europe,Faroe Islands,33347,2009
+127,Europe,United Kingdom,500473039,2009
+128,Europe,Gibraltar,0,2009
+129,Europe,Greece,4371511,2009
+130,Europe,Croatia,603353,2009
+131,Europe,Hungary,3972177,2009
+132,Europe,Ireland,7461823,2009
+133,Europe,Iceland,49252,2009
+134,Europe,Italy,124917934,2009
+135,Europe,Lithuania,1606417,2009
+136,Europe,Luxembourg,3658338,2009
+137,Europe,Latvia,3289847,2009
+138,Europe,Moldova,15965,2009
+139,Europe,North Macedonia,148774,2009
+140,Europe,Malta,23184,2009
+141,Europe,Montenegro,54133,2009
+142,Europe,Netherlands,542961183,2009
+143,Europe,Norway,615633,2009
+144,Europe,Poland,3108663,2009
+145,Europe,Portugal,3901501,2009
+146,Europe,Romania,3827676,2009
+147,Europe,Russia,1141842,2009
+148,Europe,San Marino,0,2009
+149,Europe,Serbia,1242737,2009
+150,Europe,Slovakia,3980153,2009
+151,Europe,Slovenia,4051428,2009
+152,Europe,Sweden,21333686,2009
+153,Europe,Ukraine,377440,2009
+154,North America,Aruba,0,2009
+155,North America,Anguilla,3379,2009
+156,North America,Netherlands Antilles,0,2009
+157,North America,Antigua and Barbuda,2177488,2009
+158,North America,Bahamas,0,2009
+159,North America,Belize,17283,2009
+160,North America,Bermuda,2936,2009
+161,North America,Barbados,90291,2009
+162,North America,Canada,4489747,2009
+163,North America,Costa Rica,196213,2009
+164,North America,Cuba,5559,2009
+165,North America,Cayman Islands,1449,2009
+166,North America,Dominica,109,2009
+167,North America,Dominican Republic,140324,2009
+168,North America,Grenada,0,2009
+169,North America,Greenland,0,2009
+170,North America,Guatemala,523966,2009
+171,North America,Honduras,11407,2009
+172,North America,Haiti,0,2009
+173,North America,Jamaica,41020,2009
+174,North America,Saint Kitts and Nevis,191,2009
+175,North America,Saint Lucia,0,2009
+176,North America,Mexico,89749173,2009
+177,North America,Nicaragua,6739,2009
+178,North America,Panama,480517,2009
+179,North America,El Salvador,110371,2009
+180,North America,Saint Pierre and Miquelon,0,2009
+181,North America,Turks and Caicos Islands,0,2009
+182,North America,Trinidad and Tobago,20231,2009
+183,North America,United States Minor Outlying Islands,13155,2009
+184,North America,United States,2223918746,2009
+185,North America,Saint Vincent and the Grenadines,0,2009
+186,North America,British Virgin Islands,0,2009
+187,Oceania,American Samoa,6901,2009
+188,Oceania,Australia,38206390,2009
+189,Oceania,Cook Islands,0,2009
+190,Oceania,Fiji,715,2009
+191,Oceania,Micronesia,0,2009
+192,Oceania,Guam,0,2009
+193,Oceania,Kiribati,0,2009
+194,Oceania,Northern Mariana Islands,0,2009
+195,Oceania,New Caledonia,0,2009
+196,Oceania,Norfolk Island,0,2009
+197,Oceania,Niue,0,2009
+198,Oceania,Nauru,4523,2009
+199,Oceania,New Zealand,2115356,2009
+200,Oceania,Papua New Guinea,5413,2009
+201,Oceania,French Polynesia,38622,2009
+202,Oceania,Solomon Islands,0,2009
+203,Oceania,Tonga,0,2009
+204,Oceania,Vanuatu,0,2009
+205,Oceania,Samoa,0,2009
+206,South America,Argentina,48135594,2009
+207,South America,Bolivia,1439,2009
+208,South America,Brazil,45077649,2009
+209,South America,Chile,523480,2009
+210,South America,Colombia,323938,2009
+211,South America,Ecuador,392580,2009
+212,South America,Falkland Islands,0,2009
+213,South America,Guyana,0,2009
+214,South America,Peru,650562,2009
+215,South America,Paraguay,120,2009
+216,South America,Suriname,0,2009
+217,South America,Uruguay,36930,2009
+218,South America,Venezuela,62632,2009
+0,Africa,Angola,674,2010
+1,Africa,Burundi,0,2010
+2,Africa,Benin,0,2010
+3,Africa,Burkina Faso,86317,2010
+4,Africa,Botswana,236,2010
+5,Africa,Central African Republic,0,2010
+6,Africa,Cote d'Ivoire,10690,2010
+7,Africa,Cameroon,0,2010
+8,Africa,Democratic Republic of the Congo,0,2010
+9,Africa,Republic of the Congo,0,2010
+10,Africa,Comoros,331,2010
+11,Africa,Cape Verde,0,2010
+12,Africa,Djibouti,33626,2010
+13,Africa,Algeria,778396,2010
+14,Africa,Egypt,321911,2010
+15,Africa,Eritrea,0,2010
+16,Africa,Ethiopia,633,2010
+17,Africa,Gabon,93358,2010
+18,Africa,Ghana,7149,2010
+19,Africa,Guinea,0,2010
+20,Africa,Gambia,0,2010
+21,Africa,Guinea-Bissau,0,2010
+22,Africa,Equatorial Guinea,0,2010
+23,Africa,Kenya,174153,2010
+24,Africa,Liberia,0,2010
+25,Africa,Libya,113,2010
+26,Africa,Morocco,276803,2010
+27,Africa,Madagascar,2369,2010
+28,Africa,Mali,0,2010
+29,Africa,Mozambique,2662,2010
+30,Africa,Mauritania,0,2010
+31,Africa,Mauritius,405015,2010
+32,Africa,Malawi,3038,2010
+33,Africa,Mayotte,0,2010
+34,Africa,Namibia,187247,2010
+35,Africa,Niger,49192,2010
+36,Africa,Nigeria,88479,2010
+37,Africa,Rwanda,0,2010
+38,Africa,Sudan,133258,2010
+39,Africa,Senegal,921,2010
+40,Africa,Saint Helena,0,2010
+41,Africa,Sierra Leone,0,2010
+42,Africa,Somalia,689,2010
+43,Africa,Sao Tome and Principe,0,2010
+44,Africa,Eswatini,78472,2010
+45,Africa,Seychelles,0,2010
+46,Africa,Chad,537,2010
+47,Africa,Togo,0,2010
+48,Africa,Tunisia,97284,2010
+49,Africa,Tanzania,15281,2010
+50,Africa,Uganda,1986,2010
+51,Africa,South Africa,8830006,2010
+52,Africa,Zambia,3650,2010
+53,Africa,Zimbabwe,3628,2010
+54,Antarctica,Antarctica,0,2010
+55,Antarctica,South Georgia South Sandwich Islands,0,2010
+56,Asia,Afghanistan,4073,2010
+57,Asia,United Arab Emirates,20506048,2010
+58,Asia,Armenia,5803,2010
+59,Asia,Azerbaijan,411,2010
+60,Asia,Bangladesh,1028,2010
+61,Asia,Bahrain,1249159,2010
+62,Asia,Brunei,338,2010
+63,Asia,Bhutan,226452,2010
+64,Asia,China,402052779,2010
+65,Asia,Cyprus,417065,2010
+66,Asia,Georgia,51477,2010
+67,Asia,Hong Kong,17710718,2010
+68,Asia,Indonesia,1629625,2010
+69,Asia,India,12452431,2010
+70,Asia,Iran,39541,2010
+71,Asia,Iraq,15083,2010
+72,Asia,Israel,9376889,2010
+73,Asia,Jordan,68867,2010
+74,Asia,Japan,1834521654,2010
+75,Asia,Kazakhstan,11,2010
+76,Asia,Kyrgyzstan,64691,2010
+77,Asia,Cambodia,2010,2010
+78,Asia,South Korea,71031449,2010
+79,Asia,Kuwait,701943,2010
+80,Asia,Laos,0,2010
+81,Asia,Lebanon,713749,2010
+82,Asia,Sri Lanka,4511,2010
+83,Asia,Macau,48337,2010
+84,Asia,Maldives,2573,2010
+85,Asia,Burma,1,2010
+86,Asia,Mongolia,0,2010
+87,Asia,Malaysia,150708906,2010
+88,Asia,Nepal,0,2010
+89,Asia,Oman,10488,2010
+90,Asia,Pakistan,1795813,2010
+91,Asia,Philippines,539144,2010
+92,Asia,North Korea,45778,2010
+93,Asia,Palestine,0,2010
+94,Asia,Qatar,31389,2010
+95,Asia,Saudi Arabia,45932,2010
+96,Asia,Singapore,23554738,2010
+97,Asia,Syria,254559,2010
+98,Asia,Thailand,4373972,2010
+99,Asia,Tajikistan,96488,2010
+100,Asia,Turkmenistan,0,2010
+101,Asia,Timor-Leste,0,2010
+102,Asia,Turkey,5888773,2010
+103,Asia,Uzbekistan,125,2010
+104,Asia,Vietnam,4460780,2010
+105,Asia,Yemen,111,2010
+106,Europe,Albania,60301,2010
+107,Europe,Andorra,67326,2010
+108,Europe,Austria,15236006,2010
+109,Europe,Belgium,873470219,2010
+110,Europe,Bulgaria,69443039,2010
+111,Europe,Bosnia and Herzegovina,52920,2010
+112,Europe,Belarus,352166,2010
+113,Europe,Switzerland,35583542,2010
+114,Europe,Czechia,11639968,2010
+115,Europe,Germany,929219422,2010
+116,Europe,Denmark,4488540,2010
+117,Europe,Spain,73149968,2010
+118,Europe,Estonia,49446,2010
+119,Europe,Finland,9416599,2010
+120,Europe,France,423904332,2010
+121,Europe,Faroe Islands,3154,2010
+122,Europe,United Kingdom,517580060,2010
+123,Europe,Gibraltar,0,2010
+124,Europe,Greece,3980712,2010
+125,Europe,Croatia,765530,2010
+126,Europe,Hungary,4056416,2010
+127,Europe,Ireland,4924301,2010
+128,Europe,Iceland,22734,2010
+129,Europe,Italy,126326711,2010
+130,Europe,Lithuania,1187254,2010
+131,Europe,Luxembourg,2433651,2010
+132,Europe,Latvia,3989829,2010
+133,Europe,Moldova,0,2010
+134,Europe,North Macedonia,185917,2010
+135,Europe,Malta,19550,2010
+136,Europe,Montenegro,2336,2010
+137,Europe,Netherlands,618716598,2010
+138,Europe,Norway,524809,2010
+139,Europe,Poland,2289112,2010
+140,Europe,Portugal,4421756,2010
+141,Europe,Romania,1139484,2010
+142,Europe,Russia,1241021,2010
+143,Europe,San Marino,129167,2010
+144,Europe,Serbia,3356384,2010
+145,Europe,Slovakia,5266966,2010
+146,Europe,Slovenia,3653691,2010
+147,Europe,Sweden,18103668,2010
+148,Europe,Ukraine,493041,2010
+149,Europe,Holy See (Vatican City),0,2010
+150,North America,Aruba,87016,2010
+151,North America,Anguilla,4326,2010
+152,North America,Netherlands Antilles,133037,2010
+153,North America,Antigua and Barbuda,421155,2010
+154,North America,Bahamas,0,2010
+155,North America,Belize,0,2010
+156,North America,Bermuda,2740,2010
+157,North America,Barbados,60096,2010
+158,North America,Canada,4859676,2010
+159,North America,Costa Rica,15588,2010
+160,North America,Cuba,110367,2010
+161,North America,Cayman Islands,0,2010
+162,North America,Dominica,4725,2010
+163,North America,Dominican Republic,39011,2010
+164,North America,Greenland,88,2010
+165,North America,Guatemala,47584,2010
+166,North America,Honduras,4714,2010
+167,North America,Haiti,0,2010
+168,North America,Jamaica,9027,2010
+169,North America,Saint Kitts and Nevis,295,2010
+170,North America,Saint Lucia,0,2010
+171,North America,Mexico,80301602,2010
+172,North America,Nicaragua,0,2010
+173,North America,Panama,701525,2010
+174,North America,El Salvador,66070,2010
+175,North America,Saint Pierre and Miquelon,0,2010
+176,North America,Turks and Caicos Islands,0,2010
+177,North America,Trinidad and Tobago,4060,2010
+178,North America,United States Minor Outlying Islands,7575,2010
+179,North America,United States,2068544996,2010
+180,North America,Saint Vincent and the Grenadines,0,2010
+181,North America,British Virgin Islands,126392,2010
+182,Oceania,American Samoa,5,2010
+183,Oceania,Australia,13314695,2010
+184,Oceania,Cook Islands,0,2010
+185,Oceania,Fiji,0,2010
+186,Oceania,Guam,0,2010
+187,Oceania,Kiribati,0,2010
+188,Oceania,New Caledonia,4389,2010
+189,Oceania,Norfolk Island,0,2010
+190,Oceania,Niue,0,2010
+191,Oceania,New Zealand,1531387,2010
+192,Oceania,Pitcairn Islands,0,2010
+193,Oceania,Papua New Guinea,1131,2010
+194,Oceania,French Polynesia,3787,2010
+195,Oceania,Solomon Islands,0,2010
+196,Oceania,Tonga,0,2010
+197,Oceania,Vanuatu,0,2010
+198,Oceania,Samoa,82772,2010
+199,South America,Argentina,62463381,2010
+200,South America,Bolivia,555,2010
+201,South America,Brazil,43682930,2010
+202,South America,Chile,920507,2010
+203,South America,Colombia,664021,2010
+204,South America,Ecuador,1466931,2010
+205,South America,Guyana,0,2010
+206,South America,Peru,275232,2010
+207,South America,Paraguay,0,2010
+208,South America,Suriname,0,2010
+209,South America,Uruguay,288214,2010
+210,South America,Venezuela,4009,2010
+0,Africa,Botswana,82741,2011
+1,Africa,Cote d'Ivoire,11070,2011
+2,Africa,Cameroon,1066,2011
+3,Africa,Egypt,235922,2011
+4,Africa,Ethiopia,37778,2011
+5,Africa,Ghana,79577,2011
+6,Africa,Gambia,16805,2011
+7,Africa,Lesotho,1239,2011
+8,Africa,Morocco,71959,2011
+9,Africa,Madagascar,98529,2011
+10,Africa,Mozambique,2000,2011
+11,Africa,Mauritius,881250,2011
+12,Africa,Malawi,232,2011
+13,Africa,Namibia,124041,2011
+14,Africa,Nigeria,207725,2011
+15,Africa,Rwanda,3961,2011
+16,Africa,Senegal,1129,2011
+17,Africa,Togo,22330,2011
+18,Africa,Tunisia,8443,2011
+19,Africa,Tanzania,584821,2011
+20,Africa,Uganda,46099,2011
+21,Africa,South Africa,21011196,2011
+22,Africa,Zambia,3267,2011
+23,Africa,Zimbabwe,6502,2011
+24,Asia,United Arab Emirates,8565058,2011
+25,Asia,Armenia,2891,2011
+26,Asia,Bangladesh,4995,2011
+27,Asia,Bahrain,19,2011
+28,Asia,China,780693696,2011
+29,Asia,Cyprus,7066,2011
+30,Asia,Georgia,15022,2011
+31,Asia,Hong Kong,79357704,2011
+32,Asia,Indonesia,683148,2011
+33,Asia,India,4248344,2011
+34,Asia,Israel,5675000,2011
+35,Asia,Jordan,186964,2011
+36,Asia,Japan,2007870004,2011
+37,Asia,Kazakhstan,44180,2011
+38,Asia,Kyrgyzstan,19,2011
+39,Asia,South Korea,191857036,2011
+40,Asia,Lebanon,207310,2011
+41,Asia,Sri Lanka,1108,2011
+42,Asia,Malaysia,89746775,2011
+43,Asia,Nepal,3796,2011
+44,Asia,Oman,1384512,2011
+45,Asia,Pakistan,3587511,2011
+46,Asia,Philippines,167901,2011
+47,Asia,Palestine,2676,2011
+48,Asia,Qatar,2565,2011
+49,Asia,Saudi Arabia,24985631,2011
+50,Asia,Singapore,126934539,2011
+51,Asia,Thailand,4497226,2011
+52,Asia,Turkey,8214955,2011
+53,Asia,Vietnam,2507299,2011
+54,Asia,Yemen,1515,2011
+55,Europe,Albania,11710,2011
+56,Europe,Andorra,3238,2011
+57,Europe,Austria,33427832,2011
+58,Europe,Belgium,1568839184,2011
+59,Europe,Bulgaria,73491676,2011
+60,Europe,Bosnia and Herzegovina,120783,2011
+61,Europe,Belarus,367200,2011
+62,Europe,Switzerland,32671340,2011
+63,Europe,Czechia,24397930,2011
+64,Europe,Germany,1136676931,2011
+65,Europe,Denmark,1459016,2011
+66,Europe,Spain,98704011,2011
+67,Europe,Estonia,133525,2011
+68,Europe,Finland,10504980,2011
+69,Europe,France,451155689,2011
+70,Europe,United Kingdom,496239616,2011
+71,Europe,Greece,5032665,2011
+72,Europe,Croatia,2090160,2011
+73,Europe,Hungary,9337000,2011
+74,Europe,Ireland,3448004,2011
+75,Europe,Iceland,11864,2011
+76,Europe,Italy,150790820,2011
+77,Europe,Lithuania,2514236,2011
+78,Europe,Luxembourg,4533582,2011
+79,Europe,Latvia,6893248,2011
+80,Europe,Moldova,9331,2011
+81,Europe,North Macedonia,285341,2011
+82,Europe,Malta,171255,2011
+83,Europe,Montenegro,68407,2011
+84,Europe,Netherlands,817136088,2011
+85,Europe,Norway,498789,2011
+86,Europe,Poland,15697872,2011
+87,Europe,Portugal,4584675,2011
+88,Europe,Romania,1176302,2011
+89,Europe,Russia,1076778,2011
+90,Europe,Serbia,1357483,2011
+91,Europe,Slovakia,5906019,2011
+92,Europe,Slovenia,5669405,2011
+93,Europe,Sweden,27998304,2011
+94,Europe,Ukraine,252957,2011
+95,North America,Aruba,2365,2011
+96,North America,Antigua and Barbuda,1098,2011
+97,North America,Bahamas,5086,2011
+98,North America,Barbados,104175,2011
+99,North America,Canada,6928825,2011
+100,North America,Costa Rica,545172,2011
+101,North America,Dominican Republic,380057,2011
+102,North America,Greenland,1864,2011
+103,North America,Guatemala,674710,2011
+104,North America,Honduras,2565,2011
+105,North America,Jamaica,2051,2011
+106,North America,Saint Kitts and Nevis,5585,2011
+107,North America,Mexico,179090201,2011
+108,North America,Nicaragua,13688,2011
+109,North America,Panama,5627146,2011
+110,North America,El Salvador,39049,2011
+111,North America,United States,2107267446,2011
+112,Oceania,Australia,7020292,2011
+113,Oceania,Fiji,38363,2011
+114,Oceania,New Caledonia,6423,2011
+115,Oceania,New Zealand,1949656,2011
+116,Oceania,Papua New Guinea,67467,2011
+117,Oceania,French Polynesia,163547,2011
+118,South America,Argentina,53792188,2011
+119,South America,Brazil,54660047,2011
+120,South America,Chile,4558114,2011
+121,South America,Colombia,923275,2011
+122,South America,Ecuador,49108,2011
+123,South America,Guyana,626,2011
+124,South America,Peru,1236369,2011
+125,South America,Uruguay,14489,2011
+126,South America,Venezuela,56881,2011
+0,Africa,Botswana,56314,2012
+1,Africa,Cote d'Ivoire,196,2012
+2,Africa,Cameroon,78,2012
+3,Africa,Egypt,596314,2012
+4,Africa,Ethiopia,1502,2012
+5,Africa,Ghana,31274,2012
+6,Africa,Morocco,22656,2012
+7,Africa,Madagascar,9816,2012
+8,Africa,Mozambique,173,2012
+9,Africa,Mauritius,808266,2012
+10,Africa,Namibia,71862,2012
+11,Africa,Niger,9991,2012
+12,Africa,Nigeria,1080,2012
+13,Africa,Rwanda,54569,2012
+14,Africa,Senegal,642,2012
+15,Africa,Tunisia,26566,2012
+16,Africa,Tanzania,17042,2012
+17,Africa,Uganda,30210,2012
+18,Africa,South Africa,9624829,2012
+19,Africa,Zambia,11785,2012
+20,Africa,Zimbabwe,1200,2012
+21,Asia,Azerbaijan,9345,2012
+22,Asia,Bahrain,128960,2012
+23,Asia,Brunei,495,2012
+24,Asia,China,781947113,2012
+25,Asia,Cyprus,737,2012
+26,Asia,Georgia,7211,2012
+27,Asia,Hong Kong,71032547,2012
+28,Asia,Indonesia,391973,2012
+29,Asia,India,3113933,2012
+30,Asia,Israel,6570000,2012
+31,Asia,Jordan,275491,2012
+32,Asia,Japan,1860500152,2012
+33,Asia,Kazakhstan,600,2012
+34,Asia,South Korea,223421844,2012
+35,Asia,Lebanon,272379,2012
+36,Asia,Sri Lanka,20405,2012
+37,Asia,Malaysia,105034100,2012
+38,Asia,Nepal,1198,2012
+39,Asia,Oman,288710,2012
+40,Asia,Pakistan,2479788,2012
+41,Asia,Philippines,53366,2012
+42,Asia,Palestine,7299,2012
+43,Asia,Qatar,57595,2012
+44,Asia,Saudi Arabia,32124574,2012
+45,Asia,Singapore,89689300,2012
+46,Asia,Thailand,5453731,2012
+47,Asia,Turkey,12099982,2012
+48,Asia,Vietnam,7471441,2012
+49,Asia,Yemen,25130,2012
+50,Europe,Albania,9745,2012
+51,Europe,Austria,34059069,2012
+52,Europe,Belgium,1431048933,2012
+53,Europe,Bulgaria,17186640,2012
+54,Europe,Bosnia and Herzegovina,120872,2012
+55,Europe,Belarus,223600,2012
+56,Europe,Switzerland,30268547,2012
+57,Europe,Czechia,25272012,2012
+58,Europe,Germany,1121306486,2012
+59,Europe,Denmark,2173620,2012
+60,Europe,Spain,83682924,2012
+61,Europe,Estonia,173531,2012
+62,Europe,Finland,12949279,2012
+63,Europe,France,288517705,2012
+64,Europe,United Kingdom,419398268,2012
+65,Europe,Greece,4581697,2012
+66,Europe,Croatia,1174988,2012
+67,Europe,Hungary,5050000,2012
+68,Europe,Ireland,5535699,2012
+69,Europe,Iceland,98,2012
+70,Europe,Italy,138371449,2012
+71,Europe,Lithuania,2880582,2012
+72,Europe,Luxembourg,5277661,2012
+73,Europe,Latvia,7088717,2012
+74,Europe,North Macedonia,209430,2012
+75,Europe,Malta,156447,2012
+76,Europe,Montenegro,2960,2012
+77,Europe,Netherlands,839175696,2012
+78,Europe,Norway,473968,2012
+79,Europe,Poland,14128230,2012
+80,Europe,Portugal,3324114,2012
+81,Europe,Romania,1340183,2012
+82,Europe,Russia,3102552,2012
+83,Europe,Serbia,3797201,2012
+84,Europe,Slovakia,7474541,2012
+85,Europe,Slovenia,5000241,2012
+86,Europe,Sweden,9375236,2012
+87,Europe,Ukraine,332334,2012
+88,North America,Aruba,7360,2012
+89,North America,Antigua and Barbuda,1995,2012
+90,North America,Barbados,101120,2012
+91,North America,Canada,11800932,2012
+92,North America,Costa Rica,163714,2012
+93,North America,Dominica,60,2012
+94,North America,Dominican Republic,19045,2012
+95,North America,Guatemala,641529,2012
+96,North America,Honduras,30390,2012
+97,North America,Jamaica,3917,2012
+98,North America,Mexico,160098476,2012
+99,North America,Nicaragua,6187,2012
+100,North America,El Salvador,61369,2012
+101,North America,United States,1892346881,2012
+102,Oceania,Australia,4826261,2012
+103,Oceania,Fiji,45857,2012
+104,Oceania,New Caledonia,2320,2012
+105,Oceania,New Zealand,1408603,2012
+106,Oceania,Palau,30,2012
+107,Oceania,Papua New Guinea,69154,2012
+108,Oceania,Tonga,10153,2012
+109,South America,Argentina,10756230,2012
+110,South America,Brazil,54206261,2012
+111,South America,Chile,4482493,2012
+112,South America,Colombia,480359,2012
+113,South America,Ecuador,45818,2012
+114,South America,Guyana,117,2012
+115,South America,Peru,1165521,2012
+116,South America,Uruguay,10380,2012
+0,Africa,Botswana,69301,2013
+1,Africa,Cote d'Ivoire,4502,2013
+2,Africa,Republic of the Congo,9752,2013
+3,Africa,Egypt,216110,2013
+4,Africa,Ghana,516811,2013
+5,Africa,Gambia,371,2013
+6,Africa,Kenya,118698,2013
+7,Africa,Morocco,37136,2013
+8,Africa,Madagascar,296,2013
+9,Africa,Mauritius,824706,2013
+10,Africa,Malawi,14,2013
+11,Africa,Namibia,32608,2013
+12,Africa,Nigeria,327739,2013
+13,Africa,Rwanda,2797,2013
+14,Africa,Senegal,15635,2013
+15,Africa,Tunisia,107391,2013
+16,Africa,Tanzania,84567,2013
+17,Africa,Uganda,30634,2013
+18,Africa,South Africa,8261940,2013
+19,Africa,Zambia,153,2013
+20,Asia,Armenia,2230,2013
+21,Asia,Bahrain,19962,2013
+22,Asia,Brunei,1988,2013
+23,Asia,China,808323822,2013
+24,Asia,Cyprus,6844,2013
+25,Asia,Georgia,164409,2013
+26,Asia,Hong Kong,56355357,2013
+27,Asia,Indonesia,2369606,2013
+28,Asia,India,4785480,2013
+29,Asia,Israel,8315000,2013
+30,Asia,Jordan,439215,2013
+31,Asia,Japan,1651227133,2013
+32,Asia,Kazakhstan,13692,2013
+33,Asia,South Korea,243589859,2013
+34,Asia,Kuwait,145626,2013
+35,Asia,Lebanon,62678,2013
+36,Asia,Sri Lanka,3734,2013
+37,Asia,Mongolia,4000,2013
+38,Asia,Malaysia,124693911,2013
+39,Asia,Nepal,25050,2013
+40,Asia,Oman,268676,2013
+41,Asia,Pakistan,323819,2013
+42,Asia,Philippines,498186,2013
+43,Asia,Palestine,6036,2013
+44,Asia,Saudi Arabia,13222416,2013
+45,Asia,Singapore,79501942,2013
+46,Asia,Thailand,4027554,2013
+47,Asia,Turkey,14025450,2013
+48,Asia,Vietnam,12736456,2013
+49,Europe,Albania,1598,2013
+50,Europe,Austria,27188822,2013
+51,Europe,Belgium,1215216275,2013
+52,Europe,Bulgaria,1308371,2013
+53,Europe,Bosnia and Herzegovina,128467,2013
+54,Europe,Belarus,248900,2013
+55,Europe,Switzerland,22779627,2013
+56,Europe,Czechia,28374713,2013
+57,Europe,Germany,1147409393,2013
+58,Europe,Denmark,2272592,2013
+59,Europe,Spain,83094027,2013
+60,Europe,Estonia,25392,2013
+61,Europe,Finland,9823198,2013
+62,Europe,France,185833819,2013
+63,Europe,United Kingdom,422038237,2013
+64,Europe,Greece,2726784,2013
+65,Europe,Croatia,863918,2013
+66,Europe,Hungary,5858456,2013
+67,Europe,Ireland,3701679,2013
+68,Europe,Iceland,232,2013
+69,Europe,Italy,101395329,2013
+70,Europe,Lithuania,3139049,2013
+71,Europe,Luxembourg,4063627,2013
+72,Europe,Latvia,8024482,2013
+73,Europe,North Macedonia,76856,2013
+74,Europe,Malta,23624,2013
+75,Europe,Montenegro,292,2013
+76,Europe,Netherlands,807859262,2013
+77,Europe,Norway,412011,2013
+78,Europe,Poland,18604847,2013
+79,Europe,Portugal,5726128,2013
+80,Europe,Romania,1498927,2013
+81,Europe,Russia,3995453,2013
+82,Europe,Serbia,615377,2013
+83,Europe,Slovakia,3327716,2013
+84,Europe,Slovenia,7419360,2013
+85,Europe,Sweden,7202772,2013
+86,Europe,Ukraine,204993,2013
+87,North America,Aruba,363,2013
+88,North America,Antigua and Barbuda,32201,2013
+89,North America,Bahamas,4738,2013
+90,North America,Barbados,115046,2013
+91,North America,Canada,4765748,2013
+92,North America,Costa Rica,154507,2013
+93,North America,Dominican Republic,10318,2013
+94,North America,Greenland,1781,2013
+95,North America,Guatemala,393209,2013
+96,North America,Jamaica,5986,2013
+97,North America,Mexico,166483996,2013
+98,North America,Nicaragua,13988,2013
+99,North America,El Salvador,120093,2013
+100,North America,United States,1887569179,2013
+101,Oceania,Australia,2220655,2013
+102,Oceania,Fiji,42497,2013
+103,Oceania,New Caledonia,897,2013
+104,Oceania,New Zealand,2227638,2013
+105,South America,Argentina,13109163,2013
+106,South America,Brazil,59372611,2013
+107,South America,Chile,3465919,2013
+108,South America,Colombia,811594,2013
+109,South America,Ecuador,33042,2013
+110,South America,Guyana,75,2013
+111,South America,Peru,1081240,2013
+112,South America,Uruguay,11112,2013
+113,South America,Venezuela,349,2013
+0,Africa,Burundi,1100,2014
+1,Africa,Benin,11700,2014
+2,Africa,Botswana,49553,2014
+3,Africa,Cameroon,1518,2014
+4,Africa,Egypt,249533,2014
+5,Africa,Ethiopia,6337,2014
+6,Africa,Gambia,4022,2014
+7,Africa,Morocco,145727,2014
+8,Africa,Madagascar,19323,2014
+9,Africa,Mauritius,569339,2014
+10,Africa,Malawi,908,2014
+11,Africa,Namibia,20283,2014
+12,Africa,Rwanda,1592,2014
+13,Africa,Sierra Leone,1,2014
+14,Africa,Tanzania,572398,2014
+15,Africa,Uganda,272922,2014
+16,Africa,South Africa,5824796,2014
+17,Africa,Zambia,299,2014
+18,Asia,United Arab Emirates,87471367,2014
+19,Asia,Armenia,13179,2014
+20,Asia,Bahrain,6691,2014
+21,Asia,Brunei,4555,2014
+22,Asia,China,777437726,2014
+23,Asia,Georgia,30237,2014
+24,Asia,Hong Kong,46833285,2014
+25,Asia,Indonesia,2727530,2014
+26,Asia,India,5695459,2014
+27,Asia,Israel,5391000,2014
+28,Asia,Jordan,458756,2014
+29,Asia,Japan,1487584189,2014
+30,Asia,Kazakhstan,10628,2014
+31,Asia,South Korea,326383411,2014
+32,Asia,Kuwait,1777776,2014
+33,Asia,Lebanon,54710,2014
+34,Asia,Sri Lanka,28187,2014
+35,Asia,Malaysia,235059784,2014
+36,Asia,Nepal,100334,2014
+37,Asia,Oman,63155,2014
+38,Asia,Pakistan,4310,2014
+39,Asia,Philippines,1315921,2014
+40,Asia,Palestine,10465,2014
+41,Asia,Singapore,75758998,2014
+42,Asia,Thailand,2617329,2014
+43,Asia,Turkey,10461870,2014
+44,Asia,Vietnam,15640264,2014
+45,Asia,Chinese Taipei,255869221,2014
+46,Asia,Yemen,3966,2014
+47,Europe,Austria,22156473,2014
+48,Europe,Belgium,984196942,2014
+49,Europe,Bulgaria,910435,2014
+50,Europe,Bosnia and Herzegovina,120444,2014
+51,Europe,Belarus,710300,2014
+52,Europe,Switzerland,21735242,2014
+53,Europe,Czechia,20582015,2014
+54,Europe,Germany,1153323961,2014
+55,Europe,Denmark,1929082,2014
+56,Europe,Spain,57823895,2014
+57,Europe,Estonia,76206,2014
+58,Europe,Finland,6078389,2014
+59,Europe,France,95295957,2014
+60,Europe,United Kingdom,374303626,2014
+61,Europe,Greece,2436967,2014
+62,Europe,Croatia,630983,2014
+63,Europe,Hungary,4152249,2014
+64,Europe,Ireland,5378271,2014
+65,Europe,Iceland,696,2014
+66,Europe,Italy,90124406,2014
+67,Europe,Lithuania,4245653,2014
+68,Europe,Luxembourg,3457155,2014
+69,Europe,Latvia,7217576,2014
+70,Europe,Moldova,888,2014
+71,Europe,North Macedonia,89681,2014
+72,Europe,Malta,8081,2014
+73,Europe,Netherlands,797817952,2014
+74,Europe,Norway,305783,2014
+75,Europe,Poland,17691341,2014
+76,Europe,Portugal,5601927,2014
+77,Europe,Romania,1062514,2014
+78,Europe,Russia,6884513,2014
+79,Europe,Serbia,836503,2014
+80,Europe,Slovakia,2403593,2014
+81,Europe,Slovenia,6876668,2014
+82,Europe,Sweden,8371696,2014
+83,Europe,Ukraine,161317,2014
+84,North America,Aruba,56,2014
+85,North America,Antigua and Barbuda,29010,2014
+86,North America,Bahamas,1100,2014
+87,North America,Barbados,117891,2014
+88,North America,Canada,3448593,2014
+89,North America,Dominican Republic,321489,2014
+90,North America,Guatemala,436147,2014
+91,North America,Honduras,116261,2014
+92,North America,Saint Lucia,6302,2014
+93,North America,Mexico,153943380,2014
+94,North America,Nicaragua,32848,2014
+95,North America,El Salvador,125274,2014
+96,North America,United States,1761856124,2014
+97,Oceania,Australia,5104424,2014
+98,Oceania,Fiji,68718,2014
+99,Oceania,New Caledonia,51373,2014
+100,Oceania,New Zealand,2034607,2014
+101,Oceania,French Polynesia,2238,2014
+102,Oceania,Tonga,42,2014
+103,Oceania,Samoa,130,2014
+104,South America,Argentina,6582516,2014
+105,South America,Brazil,56564200,2014
+106,South America,Chile,3917720,2014
+107,South America,Colombia,630306,2014
+108,South America,Ecuador,566958,2014
+109,South America,Peru,987438,2014
+110,South America,Uruguay,1840,2014
+0,Africa,Botswana,4939,2015
+1,Africa,Cote d'Ivoire,180,2015
+2,Africa,Cameroon,3062,2015
+3,Africa,Egypt,574468,2015
+4,Africa,Guinea,419,2015
+5,Africa,Morocco,52259,2015
+6,Africa,Mauritius,403064,2015
+7,Africa,Malawi,178352,2015
+8,Africa,Niger,2019,2015
+9,Africa,Rwanda,2166,2015
+10,Africa,Senegal,7427,2015
+11,Africa,Togo,28526,2015
+12,Africa,Tunisia,19801,2015
+13,Africa,Tanzania,13517,2015
+14,Africa,Uganda,57947,2015
+15,Africa,South Africa,5955948,2015
+16,Asia,United Arab Emirates,7106747,2015
+17,Asia,Azerbaijan,192,2015
+18,Asia,Bahrain,169998,2015
+19,Asia,Brunei,109,2015
+20,Asia,China,736098025,2015
+21,Asia,Cyprus,52465,2015
+22,Asia,Georgia,173366,2015
+23,Asia,Hong Kong,41805103,2015
+24,Asia,Indonesia,2031587,2015
+25,Asia,India,4720892,2015
+26,Asia,Israel,3667000,2015
+27,Asia,Jordan,11418,2015
+28,Asia,Japan,1147027356,2015
+29,Asia,Kazakhstan,161776,2015
+30,Asia,Kyrgyzstan,44400,2015
+31,Asia,South Korea,237371665,2015
+32,Asia,Kuwait,586605,2015
+33,Asia,Sri Lanka,5357,2015
+34,Asia,Macau,39318,2015
+35,Asia,Mongolia,23,2015
+36,Asia,Malaysia,170737368,2015
+37,Asia,Oman,344500,2015
+38,Asia,Pakistan,363466,2015
+39,Asia,Philippines,1853843,2015
+40,Asia,Palestine,38895,2015
+41,Asia,Qatar,85117,2015
+42,Asia,Saudi Arabia,403201,2015
+43,Asia,Singapore,86384536,2015
+44,Asia,Thailand,1558414,2015
+45,Asia,Turkey,6728497,2015
+46,Asia,Vietnam,9365555,2015
+47,Asia,Yemen,43504,2015
+48,Europe,Austria,8350166,2015
+49,Europe,Belgium,756805528,2015
+50,Europe,Bulgaria,863119,2015
+51,Europe,Bosnia and Herzegovina,106381,2015
+52,Europe,Belarus,862200,2015
+53,Europe,Switzerland,13226319,2015
+54,Europe,Czechia,20647138,2015
+55,Europe,Germany,1013845488,2015
+56,Europe,Denmark,1699194,2015
+57,Europe,Spain,54377950,2015
+58,Europe,Estonia,1222881,2015
+59,Europe,Finland,1690789,2015
+60,Europe,France,68989417,2015
+61,Europe,United Kingdom,265309287,2015
+62,Europe,Greece,2086841,2015
+63,Europe,Croatia,419534,2015
+64,Europe,Hungary,4808238,2015
+65,Europe,Ireland,5829898,2015
+66,Europe,Iceland,250,2015
+67,Europe,Italy,79622383,2015
+68,Europe,Lithuania,10697692,2015
+69,Europe,Luxembourg,4712395,2015
+70,Europe,Latvia,4960418,2015
+71,Europe,North Macedonia,31595,2015
+72,Europe,Malta,6504,2015
+73,Europe,Montenegro,703,2015
+74,Europe,Netherlands,600247611,2015
+75,Europe,Norway,198663,2015
+76,Europe,Poland,20882992,2015
+77,Europe,Portugal,5178374,2015
+78,Europe,Romania,755071,2015
+79,Europe,Russia,4372090,2015
+80,Europe,Serbia,867370,2015
+81,Europe,Slovakia,3277026,2015
+82,Europe,Slovenia,5670107,2015
+83,Europe,Sweden,6531083,2015
+84,Europe,Ukraine,189766,2015
+85,North America,Antigua and Barbuda,2665,2015
+86,North America,Bahamas,2952,2015
+87,North America,Barbados,78047,2015
+88,North America,Canada,3613330,2015
+89,North America,Costa Rica,160563,2015
+90,North America,Dominican Republic,339031,2015
+91,North America,Guatemala,317905,2015
+92,North America,Mexico,106081042,2015
+93,North America,Nicaragua,10845,2015
+94,North America,El Salvador,67476,2015
+95,North America,United States,1715701243,2015
+96,North America,Saint Vincent and the Grenadines,151,2015
+97,Oceania,Australia,5256759,2015
+98,Oceania,Fiji,121920,2015
+99,Oceania,New Caledonia,1948,2015
+100,Oceania,New Zealand,997568,2015
+101,Oceania,French Polynesia,2929,2015
+102,South America,Argentina,5240048,2015
+103,South America,Brazil,38495153,2015
+104,South America,Chile,2739266,2015
+105,South America,Colombia,779951,2015
+106,South America,Ecuador,229072,2015
+107,South America,Peru,655461,2015
+108,South America,Paraguay,14300,2015
+109,South America,Uruguay,21,2015
+0,Africa,Benin,832,2016
+1,Africa,Botswana,50806,2016
+2,Africa,Egypt,50517,2016
+3,Africa,Ethiopia,36,2016
+4,Africa,Ghana,2676472,2016
+5,Africa,Morocco,88508,2016
+6,Africa,Madagascar,66,2016
+7,Africa,Mauritius,294898,2016
+8,Africa,Namibia,5907,2016
+9,Africa,Senegal,1206,2016
+10,Africa,Togo,108606,2016
+11,Africa,Tunisia,174243,2016
+12,Africa,Tanzania,12088,2016
+13,Africa,South Africa,3053865,2016
+14,Africa,Zimbabwe,2648,2016
+15,Asia,United Arab Emirates,9068106,2016
+16,Asia,Armenia,994,2016
+17,Asia,Bahrain,29827,2016
+18,Asia,China,662010283,2016
+19,Asia,Cyprus,88394,2016
+20,Asia,Georgia,166746,2016
+21,Asia,Hong Kong,33390159,2016
+22,Asia,Indonesia,2817565,2016
+23,Asia,India,2835299,2016
+24,Asia,Israel,4904000,2016
+25,Asia,Jordan,5490,2016
+26,Asia,Japan,1243690798,2016
+27,Asia,Kazakhstan,112665,2016
+28,Asia,Kyrgyzstan,395,2016
+29,Asia,South Korea,232024071,2016
+30,Asia,Sri Lanka,2833,2016
+31,Asia,Burma,76371,2016
+32,Asia,Malaysia,130206304,2016
+33,Asia,Oman,422269,2016
+34,Asia,Pakistan,898283,2016
+35,Asia,Philippines,116583,2016
+36,Asia,Singapore,71915109,2016
+37,Asia,Turkey,5422443,2016
+38,Europe,Belgium,680484397,2016
+39,Europe,Bulgaria,1408297,2016
+40,Europe,Bosnia and Herzegovina,78693,2016
+41,Europe,Belarus,551000,2016
+42,Europe,Switzerland,12321708,2016
+43,Europe,Czechia,19391120,2016
+44,Europe,Germany,1062178489,2016
+45,Europe,Denmark,1887636,2016
+46,Europe,Spain,62480344,2016
+47,Europe,Estonia,1407287,2016
+48,Europe,France,58524030,2016
+49,Europe,United Kingdom,197385686,2016
+50,Europe,Greece,2464561,2016
+51,Europe,Croatia,1051351,2016
+52,Europe,Hungary,5613813,2016
+53,Europe,Ireland,17147795,2016
+54,Europe,Iceland,35,2016
+55,Europe,Italy,68076162,2016
+56,Europe,Lithuania,13735341,2016
+57,Europe,Luxembourg,5174728,2016
+58,Europe,Latvia,2841268,2016
+59,Europe,North Macedonia,77793,2016
+60,Europe,Malta,13381,2016
+61,Europe,Norway,617574,2016
+62,Europe,Poland,21956407,2016
+63,Europe,Portugal,4156710,2016
+64,Europe,Romania,1332892,2016
+65,Europe,Russia,3951757,2016
+66,Europe,Serbia,823104,2016
+67,Europe,Slovakia,3126290,2016
+68,North America,Aruba,66,2016
+69,North America,Antigua and Barbuda,667,2016
+70,North America,Barbados,96932,2016
+71,North America,Canada,3486955,2016
+72,North America,Costa Rica,270057,2016
+73,North America,Dominican Republic,329655,2016
+74,North America,Greenland,129,2016
+75,North America,Jamaica,689,2016
+76,North America,Mexico,68043405,2016
+77,North America,Panama,3335793,2016
+78,North America,El Salvador,62209,2016
+79,North America,United States,1558064368,2016
+80,Oceania,Australia,4643603,2016
+81,Oceania,Fiji,12414,2016
+82,Oceania,New Zealand,1096843,2016
+83,Oceania,Samoa,2,2016
+84,South America,Argentina,1090252,2016
+85,South America,Brazil,30503255,2016
+86,South America,Chile,2126261,2016
+87,South America,Colombia,535074,2016
+88,South America,Ecuador,41049,2016
+89,South America,Peru,239264,2016
+90,South America,Uruguay,53618,2016
+0,Africa,Botswana,22049,2017
+1,Africa,Cote d'Ivoire,42056,2017
+2,Africa,Republic of the Congo,2500,2017
+3,Africa,Algeria,1605,2017
+4,Africa,Egypt,4780,2017
+5,Africa,Ghana,763334,2017
+6,Africa,Kenya,135192,2017
+7,Africa,Lesotho,61,2017
+8,Africa,Morocco,116101,2017
+9,Africa,Mozambique,424,2017
+10,Africa,Mauritius,35751,2017
+11,Africa,Namibia,2181,2017
+12,Africa,Nigeria,29429,2017
+13,Africa,Senegal,10566,2017
+14,Africa,Eswatini,574,2017
+15,Africa,Tunisia,2434,2017
+16,Africa,Tanzania,25,2017
+17,Africa,South Africa,3148189,2017
+18,Africa,Zambia,67,2017
+19,Asia,Armenia,11572,2017
+20,Asia,Azerbaijan,36024,2017
+21,Asia,Brunei,972,2017
+22,Asia,China,528340390,2017
+23,Asia,Cyprus,274895,2017
+24,Asia,Georgia,18921,2017
+25,Asia,Hong Kong,16887112,2017
+26,Asia,Indonesia,435272,2017
+27,Asia,India,4378247,2017
+28,Asia,Iran,8996,2017
+29,Asia,Israel,11342079,2017
+30,Asia,Jordan,309,2017
+31,Asia,Japan,1358730325,2017
+32,Asia,Kazakhstan,112523,2017
+33,Asia,South Korea,178433062,2017
+34,Asia,Kuwait,1260,2017
+35,Asia,Lebanon,441,2017
+36,Asia,Sri Lanka,28185,2017
+37,Asia,Maldives,3176,2017
+38,Asia,Burma,91236,2017
+39,Asia,Malaysia,103227521,2017
+40,Asia,Oman,70069,2017
+41,Asia,Pakistan,10397,2017
+42,Asia,Philippines,180813,2017
+43,Asia,Singapore,35636639,2017
+44,Asia,Turkey,9065433,2017
+45,Europe,Austria,7036435,2017
+46,Europe,Belgium,603007742,2017
+47,Europe,Bulgaria,1357452,2017
+48,Europe,Bosnia and Herzegovina,261,2017
+49,Europe,Belarus,335217,2017
+50,Europe,Switzerland,11958850,2017
+51,Europe,Czechia,15155826,2017
+52,Europe,Germany,919069073,2017
+53,Europe,Denmark,1513229,2017
+54,Europe,Spain,55374743,2017
+55,Europe,Estonia,99659,2017
+56,Europe,Finland,19667789,2017
+57,Europe,France,100240938,2017
+58,Europe,United Kingdom,109398416,2017
+59,Europe,Greece,2387036,2017
+60,Europe,Croatia,1201516,2017
+61,Europe,Hungary,4957966,2017
+62,Europe,Ireland,17585546,2017
+63,Europe,Iceland,18883,2017
+64,Europe,Italy,54701790,2017
+65,Europe,Lithuania,13957686,2017
+66,Europe,Luxembourg,3335628,2017
+67,Europe,Latvia,1239278,2017
+68,Europe,North Macedonia,17281,2017
+69,Europe,Netherlands,533912890,2017
+70,Europe,Norway,202194,2017
+71,Europe,Poland,15832839,2017
+72,Europe,Portugal,1277086,2017
+73,Europe,Romania,1424679,2017
+74,Europe,Russia,4975935,2017
+75,Europe,Serbia,1915445,2017
+76,Europe,Slovakia,3566633,2017
+77,Europe,Slovenia,5133827,2017
+78,Europe,Sweden,8008872,2017
+79,Europe,Ukraine,85248,2017
+80,North America,Antigua and Barbuda,462,2017
+81,North America,Barbados,4670,2017
+82,North America,Canada,2832180,2017
+83,North America,Costa Rica,74950,2017
+84,North America,Dominican Republic,61342,2017
+85,North America,Honduras,78052,2017
+86,North America,Jamaica,1511,2017
+87,North America,Mexico,35938545,2017
+88,North America,Nicaragua,10624,2017
+89,North America,El Salvador,9142,2017
+90,North America,United States,1466423430,2017
+91,Oceania,Australia,2761391,2017
+92,Oceania,New Zealand,935807,2017
+93,South America,Argentina,532207,2017
+94,South America,Brazil,27345820,2017
+95,South America,Chile,1688344,2017
+96,South America,Colombia,468622,2017
+97,South America,Ecuador,71078,2017
+98,South America,Peru,269655,2017
+99,South America,Paraguay,1853,2017
+100,South America,Suriname,1359,2017
+101,South America,Uruguay,4362,2017
+0,Africa,Angola,40228,2018
+1,Africa,Burundi,81,2018
+2,Africa,Burkina Faso,687,2018
+3,Africa,Botswana,11516,2018
+4,Africa,Cote d'Ivoire,393489,2018
+5,Africa,Egypt,87732,2018
+6,Africa,Ghana,1175121,2018
+7,Africa,Kenya,106693,2018
+8,Africa,Morocco,208409,2018
+9,Africa,Madagascar,4632,2018
+10,Africa,Mauritius,19235,2018
+11,Africa,Namibia,6817,2018
+12,Africa,Tanzania,275288,2018
+13,Africa,Uganda,13022,2018
+14,Africa,South Africa,3892843,2018
+15,Asia,United Arab Emirates,55938860,2018
+16,Asia,Armenia,10402,2018
+17,Asia,Azerbaijan,6450,2018
+18,Asia,Bahrain,22955,2018
+19,Asia,Brunei,848,2018
+20,Asia,China,819540156,2018
+21,Asia,Cyprus,268548,2018
+22,Asia,Georgia,14408,2018
+23,Asia,Hong Kong,41846047,2018
+24,Asia,Indonesia,269660,2018
+25,Asia,India,4246598,2018
+26,Asia,Israel,4092000,2018
+27,Asia,Jordan,23166,2018
+28,Asia,Japan,1793730740,2018
+29,Asia,Kazakhstan,420321,2018
+30,Asia,South Korea,339131130,2018
+31,Asia,Kuwait,24706,2018
+32,Asia,Lebanon,151011,2018
+33,Asia,Burma,645898,2018
+34,Asia,Malaysia,158818248,2018
+35,Asia,Oman,759135,2018
+36,Asia,Pakistan,38368,2018
+37,Asia,Philippines,675059,2018
+38,Asia,Palestine,556,2018
+39,Asia,Qatar,11759,2018
+40,Asia,Saudi Arabia,577809,2018
+41,Asia,Singapore,78953566,2018
+42,Asia,Thailand,6374031,2018
+43,Asia,Turkey,8096937,2018
+44,Europe,Andorra,4316,2018
+45,Europe,Austria,7864714,2018
+46,Europe,Belgium,889308397,2018
+47,Europe,Bulgaria,3041034,2018
+48,Europe,Bosnia and Herzegovina,70384,2018
+49,Europe,Belarus,568400,2018
+50,Europe,Switzerland,9638257,2018
+51,Europe,Czechia,13459432,2018
+52,Europe,Germany,1130974796,2018
+53,Europe,Denmark,1809679,2018
+54,Europe,Spain,55307825,2018
+55,Europe,Estonia,114862,2018
+56,Europe,Finland,676597,2018
+57,Europe,France,129316084,2018
+58,Europe,United Kingdom,119645215,2018
+59,Europe,Greece,2588484,2018
+60,Europe,Croatia,2606028,2018
+61,Europe,Hungary,8055935,2018
+62,Europe,Ireland,45870872,2018
+63,Europe,Iceland,265,2018
+64,Europe,Italy,50305549,2018
+65,Europe,Lithuania,16622866,2018
+66,Europe,Luxembourg,4811440,2018
+67,Europe,Latvia,4700773,2018
+68,Europe,Moldova,7300,2018
+69,Europe,North Macedonia,9038,2018
+70,Europe,Malta,55991,2018
+71,Europe,Netherlands,602747382,2018
+72,Europe,Norway,137174,2018
+73,Europe,Poland,25610380,2018
+74,Europe,Portugal,3747737,2018
+75,Europe,Romania,2180115,2018
+76,Europe,Russia,6338674,2018
+77,Europe,Serbia,1150874,2018
+78,Europe,Slovakia,4397798,2018
+79,Europe,Slovenia,4983228,2018
+80,Europe,Sweden,8053080,2018
+81,Europe,Ukraine,206106,2018
+82,North America,Barbados,46151,2018
+83,North America,Canada,3690895,2018
+84,North America,Costa Rica,282773,2018
+85,North America,Mexico,27327664,2018
+86,North America,Nicaragua,24767,2018
+87,North America,El Salvador,87068,2018
+88,North America,United States,1634265493,2018
+89,Oceania,Australia,5349975,2018
+90,Oceania,Fiji,5650,2018
+91,Oceania,New Zealand,918860,2018
+92,South America,Argentina,194211,2018
+93,South America,Bolivia,6653,2018
+94,South America,Brazil,26503552,2018
+95,South America,Chile,1994095,2018
+96,South America,Colombia,410150,2018
+97,South America,Ecuador,87317,2018
+98,South America,Peru,406734,2018
+99,South America,Paraguay,3000,2018
+100,South America,Uruguay,10650,2018
+101,,Rest of the world,334974258,2018
